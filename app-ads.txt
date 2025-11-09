@@ -1,1 +1,7 @@
 google.com, pub-5521133625278389, DIRECT, f08c47fec0942fa0
+onetag.com, 950e45b66b6f330, DIRECT
+onetag.com, 950e45b66b6f330-OB, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 586616193, RESELLER
