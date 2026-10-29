@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.catsizerlab.sharespend",
+      "sha256_cert_fingerprints": [
+        "A2:07:D0:62:50:57:7D:D4:F9:3B:A8:C2:64:93:FB:A3:73:08:C1:CA:6A:45:0E:84:35:D8:26:A5:05:DD:1F:CB"
+      ]
+    }
+  }
+]
