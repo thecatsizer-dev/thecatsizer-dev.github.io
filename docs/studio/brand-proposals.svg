@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">Trois directions pour une nouvelle marque</title><desc id="desc">Comparaison des noms TRAMA, NERVURE et ORSA, avec trois dessins originaux de logos et leur intention.</desc>
+<rect width="1600" height="1000" fill="#f4f4f0"/>
+<g fill="#17191b" font-family="Arial,Helvetica,sans-serif">
+<text x="70" y="70" font-size="15" letter-spacing="3">THECATSIZERLAB · EXPLORATIONS DE MARQUE · 26.11.2026</text>
+<text x="65" y="160" font-size="66" font-weight="700" letter-spacing="-3">Un nouveau nom. Un vrai caractère.</text>
+<text x="70" y="209" font-size="21">Trois pistes créatives pour un développeur indépendant, du site web au logiciel métier.</text>
+</g>
+<g fill="#fff" stroke="#17191b" stroke-width="1"><rect x="70" y="270" width="460" height="580"/><rect x="570" y="270" width="460" height="580"/><rect x="1070" y="270" width="460" height="580"/></g>
+<g fill="#17191b" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2"><text x="105" y="317">01 / LA TRAME</text><text x="605" y="317">02 / LA STRUCTURE VIVANTE</text><text x="1105" y="317">03 / LE REPÈRE</text></g>
+<g transform="translate(200 345)" fill="none" stroke="#17191b" stroke-width="10" stroke-linecap="square"><path d="M30 130V40h82v90M65 40v90h82V40m-117 90 117-90"/></g>
+<g transform="translate(700 345)" fill="none" stroke="#17191b" stroke-width="10" stroke-linecap="square"><path d="M35 135V40l100 95V40M35 80 15 60m120 35 22 22M85 88V54"/></g>
+<g transform="translate(1200 345)"><path d="m40 45 72 10 22 72-94-12V45m0 70 72-60" fill="none" stroke="#17191b" stroke-width="7"/><g fill="#17191b"><circle cx="40" cy="45" r="9"/><circle cx="112" cy="55" r="9"/><circle cx="134" cy="127" r="9"/><circle cx="40" cy="115" r="9"/><path d="M74 77h16v16H74z"/></g></g>
+<g fill="#17191b" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" text-anchor="middle" letter-spacing="-3"><text x="300" y="570">TRAMA</text><text x="800" y="570">NERVURE</text><text x="1300" y="570">ORSA</text></g>
+<g fill="#17191b" font-family="Arial,Helvetica,sans-serif" font-size="21" text-anchor="middle"><text x="300" y="623">Des idées qui prennent forme.</text><text x="800" y="623">Le fond. La forme. Le mouvement.</text><text x="1300" y="623">Une direction. Des réalisations.</text></g>
+<g fill="#50545a" font-family="Arial,Helvetica,sans-serif" font-size="19" text-anchor="middle">
+<text x="300" y="699">Court, structuré, polyvalent.</text><text x="300" y="732">Un signe qui assemble et relie.</text><text x="300" y="782" fill="#17191b" font-size="14" letter-spacing="2">PISTE RECOMMANDÉE</text>
+<text x="800" y="699">Éditorial, précis, organique.</text><text x="800" y="732">Une structure qui devient signature.</text>
+<text x="1300" y="699">Compact, ouvert, international.</text><text x="1300" y="732">Un cap clair, sans effet superflu.</text>
+</g>
+<g fill="#50545a" font-family="Arial,Helvetica,sans-serif" font-size="17"><text x="70" y="922">Noms et dessins proposés à titre créatif. Disponibilité des marques et domaines non vérifiée.</text><text x="70" y="953">Aucune modification des coordonnées ou de l’identité légale de l’entrepreneur individuel.</text></g>
+</svg>

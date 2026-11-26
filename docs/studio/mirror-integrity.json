@@ -1,0 +1,13 @@
+{
+  "sourceCommit": "ec173a4",
+  "date": "2026-11-26",
+  "identicalPortfolioPages": 55,
+  "legacyFilesUnchanged": 8,
+  "staticAudit": {
+    "pages": 430,
+    "brokenLinks": 0,
+    "untranslatedStrings": 0,
+    "metadataErrors": 0
+  },
+  "reference": "verification.html"
+}

@@ -32,3 +32,4 @@ for lang in LANGS:
    messages[lang][source]=value
  (out/(lang+'.json')).write_text(json.dumps({'messages':messages[lang],'municipalSources':list(dict.fromkeys(municipal_sources))},ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf8')
 print('Compiled reviewed catalogues:',{lang:len(rows) for lang,rows in messages.items()})
+(ROOT/'assets/i18n/studio-messages.js').write_text('export const messages='+json.dumps({lang:{key:rows[key] for key in ['Pause animations','Resume animations']} for lang,rows in messages.items()},ensure_ascii=False,separators=(',',':'))+';\n',encoding='utf8')

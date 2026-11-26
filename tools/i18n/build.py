@@ -64,7 +64,7 @@ def convert(html,lang,path,portfolio=False):
  for option in soup.select('option'):
   if not option.has_attr('value'):option['value']=option.get_text()
  for node in list(soup.find_all(string=True)):
-  if isinstance(node,(Comment,Doctype)) or node.parent.name in ['script','style'] or node.parent.find_parent(class_='language-picker'):continue
+  if isinstance(node,(Comment,Doctype)) or node.parent.name in ['script','style'] or node.parent.find_parent(class_='language-picker') or node.parent.find_parent(class_='publisher-legal-grid'):continue
   node.replace_with(NavigableString(translate(str(node))))
  for el in soup.find_all(True):
   if el.find_parent(class_='language-picker'):continue
@@ -87,6 +87,27 @@ def convert(html,lang,path,portfolio=False):
  soup.head.append(soup.new_tag('link',rel='alternate',hreflang='x-default',href=ORIGIN+localpath(path,'en' if portfolio else 'fr')))
  if not soup.select_one('link[href="/assets/i18n/language.css"]'):soup.head.append(soup.new_tag('link',rel='stylesheet',href='/assets/i18n/language.css'))
  if portfolio:
+  for font in ['bricolage-grotesque','inter']:
+   soup.head.append(soup.new_tag('link',rel='preload',href=f'/assets/fonts/{font}.woff2',attrs={'as':'font','type':'font/woff2','crossorigin':''}))
+  if path=='/':
+   for image in soup.select('img[src]'):
+    src=image['src'];original=ROOT/src.lstrip('/')
+    if not original.exists():continue
+    from PIL import Image
+    with Image.open(original) as source_image:
+     if source_image.width<1000:continue
+     preview=ROOT/'assets/media/previews'/Path(src).relative_to('/assets/media')
+     preview.parent.mkdir(parents=True,exist_ok=True)
+     variants=[]
+     for width in [480,640,960,1280]:
+      if width>source_image.width:continue
+      output=preview.with_name(preview.stem+f'-{width}.webp')
+      if not output.exists():source_image.resize((width,round(source_image.height*width/source_image.width)),Image.Resampling.LANCZOS).save(output,'WEBP',quality=83)
+      variants.append('/'+output.relative_to(ROOT).as_posix()+f' {width}w')
+     image['srcset']=', '.join(variants)
+     if image.find_parent(class_='showcase-main'):image['sizes']='(max-width:760px) calc(100vw - 72px), 72vw'
+     elif image.find_parent(class_='showcase-inset'):image['sizes']='35vw'
+     else:image['sizes']='(max-width:520px) calc(100vw - 80px), (max-width:1000px) calc(50vw - 65px), 600px'
   for old in soup.select('.language-link'):old.decompose()
   nav=soup.select_one('.nav-links')
   if nav:nav.insert(0,language_picker(soup,path,lang))
@@ -94,12 +115,13 @@ def convert(html,lang,path,portfolio=False):
  return str(soup)
 
 for lang in LANGS:
- env={**os.environ,'MUNICIPAL_LOCALE':lang};subprocess.run(['node',str(ROOT/'tools/municipal/build.mjs')],cwd=ROOT,env=env,check=True)
- directory=ROOT/'demos/municipal-website'/('' if lang=='fr' else lang)
- routes=json.loads((directory/'routes.json').read_text(encoding='utf8'))
- for route in routes:
-  path=ROOT/route['path'].lstrip('/')/'index.html';html=path.read_text(encoding='utf8');path.write_text(convert(html,lang,route['path']),encoding='utf8')
- print(lang,':',len(routes),'municipal pages',flush=True)
+ if '--portfolio-only' not in sys.argv:
+  env={**os.environ,'MUNICIPAL_LOCALE':lang};subprocess.run(['node',str(ROOT/'tools/municipal/build.mjs')],cwd=ROOT,env=env,check=True)
+  directory=ROOT/'demos/municipal-website'/('' if lang=='fr' else lang)
+  routes=json.loads((directory/'routes.json').read_text(encoding='utf8'))
+  for route in routes:
+   path=ROOT/route['path'].lstrip('/')/'index.html';html=path.read_text(encoding='utf8');path.write_text(convert(html,lang,route['path']),encoding='utf8')
+  print(lang,':',len(routes),'municipal pages',flush=True)
  for source in [ROOT/'tools/i18n/templates/index.html',*sorted((ROOT/'tools/i18n/templates/projects').glob('*.html'))]:
   relative=source.relative_to(ROOT/'tools/i18n/templates');url='/' if relative.as_posix()=='index.html' else '/'+relative.as_posix()
   target=ROOT/('' if lang=='en' else lang)/relative;target.parent.mkdir(parents=True,exist_ok=True)
@@ -110,4 +132,4 @@ for lang in LANGS:
  translate=make_translator(json.loads((ROOT/f'assets/i18n/locales/{lang}.json').read_text(encoding='utf8')))
  content='\n'.join(line if not line.strip() or '-->' in line or line=='WEBVTT' else translate(line) for line in original.splitlines())+'\n'
  if lang!='en':(ROOT/f'assets/media/pms/pms-walkthrough.{lang}.vtt').write_text(content,encoding='utf8')
-print('Generated 375 municipal pages and 55 portfolio pages from shared sources.')
+print('Generated 55 portfolio pages'+('' if '--portfolio-only' in sys.argv else ' and 375 municipal pages')+' from shared sources.')
