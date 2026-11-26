@@ -90,9 +90,9 @@ def convert(html,lang,path,portfolio=False):
   # A new release URL prevents previously cached UI modules/styles from mixing
   # with the new static page shell on GitHub Pages.
   for stylesheet in soup.select('link[rel=stylesheet]'):
-   if stylesheet.get('href')=='/assets/studio.css':stylesheet['href']='/assets/studio.css?v=20261126-studio2'
+   if stylesheet.get('href')=='/assets/studio.css':stylesheet['href']='/assets/studio.css?v=20261126-motion3'
   for icon in soup.select('link[rel=icon]'):
-   if icon.get('href')=='/assets/media/brand/studio-mark.svg':icon['href']+="?v=20261126-studio2"
+   if icon.get('href')=='/assets/media/brand/studio-mark.svg':icon['href']+="?v=20261126-motion3"
   for font in ['bricolage-grotesque','inter']:
    soup.head.append(soup.new_tag('link',rel='preload',href=f'/assets/fonts/{font}.woff2',attrs={'as':'font','type':'font/woff2','crossorigin':''}))
   if path=='/':
@@ -117,7 +117,7 @@ def convert(html,lang,path,portfolio=False):
   for old in soup.select('.language-link'):old.decompose()
   nav=soup.select_one('.nav-links')
   if nav:nav.insert(0,language_picker(soup,path,lang))
-  script=soup.new_tag('script',type='module',src='/assets/i18n/portfolio.js?v=20261126-studio2');soup.head.append(script)
+  script=soup.new_tag('script',type='module',src='/assets/i18n/portfolio.js?v=20261126-motion3');soup.head.append(script)
  return str(soup)
 
 for lang in LANGS:

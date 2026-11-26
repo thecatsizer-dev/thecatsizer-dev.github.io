@@ -1,4 +1,4 @@
-import '../studio.js';
+import '../studio.js?v=20261126-motion3';
 // Portfolio pages are fully translated at build time. Only the two motion
 // labels need a tiny runtime dictionary; municipal forms keep their own runtime.
 document.addEventListener('click',event=>{
