@@ -3,7 +3,7 @@
   "originalDestinationCommit": "37b3c0cef9fe2c4911d5a8c05b0dfb87cf0fe4b5",
   "portfolioPages": 55,
   "mainContentIdentical": true,
-  "legalParagraphsUnchanged": 6,
+  "legalParagraphsUnchanged": 5,
   "preservedOriginalFiles": [
     ".nojekyll",
     ".well-known/assetlinks.json",
@@ -29,5 +29,7 @@
   ],
   "horizontalOverflows": 0,
   "analyticsTests": 7,
-  "javascriptErrorsObserved": 0
+  "javascriptErrorsObserved": 0,
+  "publisherAddress": "Quartier i Costi, 20190 Zigliara",
+  "addressUpdatedByOwner": "2026-11-26"
 }

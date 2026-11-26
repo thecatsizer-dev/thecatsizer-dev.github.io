@@ -5,7 +5,8 @@ Live: https://thecatsizer-dev.github.io/
 This repository mirrors the portfolio from https://thecatsizerlab.github.io/
 (source commit 71831dd). The main content, project media, five languages and local
 demos are copied without redesign. The original publisher/contact information is
-retained verbatim below the portfolio footer on all 55 portfolio pages.
+retained below the portfolio footer on all 55 portfolio pages. The owner updated
+the address to Quartier i Costi, 20190 Zigliara on 26 November 2026.
 
 The original app-ads.txt, Android association, ShareSpend invitation routes,
 server.js and root package.json remain byte-for-byte unchanged. Do not replace
@@ -21,7 +22,8 @@ features remain disabled. No cross-domain identity linking is added.
 After rebuilding with python tools/i18n/build.py, run
 python tools/mirror/legal-footer.py to restore the retained legal footer.
 The six original paragraphs are stored in tools/mirror/legal.json. They are
-retained as supplied, without independent legal validation or changes.
+retained as supplied, with the owner’s address correction and without independent
+legal validation.
 
 ## Original repository purpose
 
