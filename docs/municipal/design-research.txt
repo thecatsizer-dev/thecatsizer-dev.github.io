@@ -1,0 +1,38 @@
+DESIGN RESEARCH — VALMER-SUR-RIVE
+References actually consulted on 24 November 2026 before implementation.
+
+Sens — https://www.ville-sens.fr/
+Observed: strong place identity, immersive territorial imagery, broad editorial
+coverage and explicit access to municipal projects. Retained principle: give the
+territory a recognisable visual language while explaining public investments.
+
+Les Deux Alpes — https://www.mairie2alpes.fr/
+Observed: prominent search and direct access to practical resident services.
+Retained principle: everyday tasks must be visible before deep institutional menus.
+
+Zonza / Santa Lucia — https://www.zonzasantalucia.corsica/
+The search fetch failed, but the real website was opened and inspected in the
+browser. Observed: Mediterranean identity, landscape-led opening, direct services
+and municipal information. Retained principle: place and community can coexist.
+
+Courtenay — https://www.courtenay.ca/
+Observed: resident-oriented service categories, an explicit alerts area and useful
+public information. Retained principle: prominent notices must remain distinct
+from ordinary editorial content and must not obscure navigation.
+
+Parramatta — https://www.cityofparramatta.nsw.gov.au/home
+The search fetch was blocked, but the real homepage was opened in the browser.
+Observed: clear needs-based navigation, dominant search and useful service entry
+points. Retained principle: make information retrieval a primary interaction.
+
+Official French awards — https://trophees-communication.com/palmares/
+The 2025 list confirms Sens first in towns over 10,000 inhabitants, Les Deux Alpes
+first under 10,000, and Zonza / Santa Lucia second under 10,000. International award
+claims from the brief were not independently established and are not advertised.
+
+ORIGINAL DIRECTION
+Valmer uses a new river-and-banks mark, a fictional map, Newsreader and Inter,
+deep blue, olive and restrained terracotta. The public site alternates an editorial
+opening, a service band, asymmetric news, dated events, project explanations and
+landscape storytelling. No source logo, page design, municipal text or award badge
+is reused. The photography is licensed illustration with explicit real sources.

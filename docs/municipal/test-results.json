@@ -1,0 +1,935 @@
+{
+  "browser": {
+    "checks": [
+      "Global search: accent-insensitive suggestions, results and type filters",
+      "Directory: combined search and category filter",
+      "Agenda: list/calendar, month navigation, category filter, event page and ICS download",
+      "Room booking: available slot, recap, persistence and duplicate-slot prevention",
+      "Appointment: service, date, slot and local confirmation",
+      "Citizen report: category, description, map equivalent, sample photo and confirmation",
+      "Contact: simulated submission without identity fields or network POST",
+      "Map: selectable POIs, category visibility, zoom, pan and reset with list equivalent",
+      "Administration: news creation, safe preview, draft isolation, publication and cross-tab update",
+      "Administration: page modification is visible on public page",
+      "Administration: event creation is visible in the agenda",
+      "Administration: municipal alert updates the public banner",
+      "Administration: directory editing",
+      "Administration: manual room availability management",
+      "Administration: request status and citizen notifications",
+      "Reset: initial content restored; only this demo local data affected",
+      "Mobile menu, Escape close and keyboard focus",
+      "32 full-page captures: 8 page types at 1920, 1440, 768 and 390px",
+      "Every generated public route: mobile overflow smoke check"
+    ],
+    "errors": [],
+    "external_requests": [],
+    "layouts": [
+      {
+        "page": "home",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "mairie",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "article",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "agenda",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "booking",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "map",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "citizen",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "admin",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "home",
+        "width": 1440,
+        "height": 900,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "mairie",
+        "width": 1440,
+        "height": 900,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "article",
+        "width": 1440,
+        "height": 900,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "agenda",
+        "width": 1440,
+        "height": 900,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "booking",
+        "width": 1440,
+        "height": 900,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "map",
+        "width": 1440,
+        "height": 900,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "citizen",
+        "width": 1440,
+        "height": 900,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "admin",
+        "width": 1440,
+        "height": 900,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "home",
+        "width": 768,
+        "height": 1024,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "mairie",
+        "width": 768,
+        "height": 1024,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "article",
+        "width": 768,
+        "height": 1024,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "agenda",
+        "width": 768,
+        "height": 1024,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "booking",
+        "width": 768,
+        "height": 1024,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "map",
+        "width": 768,
+        "height": 1024,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "citizen",
+        "width": 768,
+        "height": 1024,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "admin",
+        "width": 768,
+        "height": 1024,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "home",
+        "width": 390,
+        "height": 844,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "mairie",
+        "width": 390,
+        "height": 844,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "article",
+        "width": 390,
+        "height": 844,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "agenda",
+        "width": 390,
+        "height": 844,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "booking",
+        "width": 390,
+        "height": 844,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "map",
+        "width": 390,
+        "height": 844,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "citizen",
+        "width": 390,
+        "height": 844,
+        "overflow": false,
+        "broken_images": []
+      },
+      {
+        "page": "admin",
+        "width": 390,
+        "height": 844,
+        "overflow": false,
+        "broken_images": []
+      }
+    ],
+    "accessibility": [
+      {
+        "page": "home",
+        "width": 1440,
+        "violations": [],
+        "incomplete": 0
+      },
+      {
+        "page": "mairie",
+        "width": 1440,
+        "violations": [],
+        "incomplete": 0
+      },
+      {
+        "page": "article",
+        "width": 1440,
+        "violations": [],
+        "incomplete": 0
+      },
+      {
+        "page": "agenda",
+        "width": 1440,
+        "violations": [],
+        "incomplete": 1
+      },
+      {
+        "page": "booking",
+        "width": 1440,
+        "violations": [],
+        "incomplete": 1
+      },
+      {
+        "page": "map",
+        "width": 1440,
+        "violations": [],
+        "incomplete": 1
+      },
+      {
+        "page": "citizen",
+        "width": 1440,
+        "violations": [],
+        "incomplete": 0
+      },
+      {
+        "page": "admin",
+        "width": 1440,
+        "violations": [],
+        "incomplete": 0
+      },
+      {
+        "page": "home",
+        "width": 390,
+        "violations": [],
+        "incomplete": 0
+      },
+      {
+        "page": "mairie",
+        "width": 390,
+        "violations": [],
+        "incomplete": 0
+      },
+      {
+        "page": "article",
+        "width": 390,
+        "violations": [],
+        "incomplete": 0
+      },
+      {
+        "page": "agenda",
+        "width": 390,
+        "violations": [],
+        "incomplete": 1
+      },
+      {
+        "page": "booking",
+        "width": 390,
+        "violations": [],
+        "incomplete": 1
+      },
+      {
+        "page": "map",
+        "width": 390,
+        "violations": [],
+        "incomplete": 1
+      },
+      {
+        "page": "citizen",
+        "width": 390,
+        "violations": [],
+        "incomplete": 0
+      },
+      {
+        "page": "admin",
+        "width": 390,
+        "violations": [],
+        "incomplete": 0
+      }
+    ],
+    "passed": true
+  },
+  "calendar": {
+    "calendar_room_and_appointment": true,
+    "recap_and_confirmation": true,
+    "mobile_overflow": false,
+    "errors": [],
+    "axe_violations": []
+  },
+  "portfolio": {
+    "pages_static_checked": 78,
+    "broken_local_links": [],
+    "layouts": [
+      {
+        "page": "portfolio",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "portfolio-fr",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "municipal-case",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "portfolio",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "portfolio-fr",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "municipal-case",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "portfolio",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "portfolio-fr",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "municipal-case",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "portfolio",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      },
+      {
+        "page": "portfolio-fr",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      },
+      {
+        "page": "municipal-case",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      }
+    ],
+    "js_errors": [],
+    "gallery": true,
+    "all_10_projects_preserved": true
+  },
+  "final-layout": {
+    "layouts": [
+      {
+        "page": "home",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "mairie",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "article",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "agenda",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "booking",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "map",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "citizen",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "admin",
+        "width": 1920,
+        "height": 1080,
+        "overflow": false
+      },
+      {
+        "page": "home",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "mairie",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "article",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "agenda",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "booking",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "map",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "citizen",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "admin",
+        "width": 1440,
+        "height": 900,
+        "overflow": false
+      },
+      {
+        "page": "home",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "mairie",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "article",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "agenda",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "booking",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "map",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "citizen",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "admin",
+        "width": 768,
+        "height": 1024,
+        "overflow": false
+      },
+      {
+        "page": "home",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      },
+      {
+        "page": "mairie",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      },
+      {
+        "page": "article",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      },
+      {
+        "page": "agenda",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      },
+      {
+        "page": "booking",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      },
+      {
+        "page": "map",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      },
+      {
+        "page": "citizen",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      },
+      {
+        "page": "admin",
+        "width": 390,
+        "height": 844,
+        "overflow": false
+      }
+    ],
+    "axe": [
+      {
+        "page": "home",
+        "width": 1440,
+        "violations": []
+      },
+      {
+        "page": "mairie",
+        "width": 1440,
+        "violations": []
+      },
+      {
+        "page": "article",
+        "width": 1440,
+        "violations": []
+      },
+      {
+        "page": "agenda",
+        "width": 1440,
+        "violations": []
+      },
+      {
+        "page": "booking",
+        "width": 1440,
+        "violations": []
+      },
+      {
+        "page": "map",
+        "width": 1440,
+        "violations": []
+      },
+      {
+        "page": "citizen",
+        "width": 1440,
+        "violations": []
+      },
+      {
+        "page": "admin",
+        "width": 1440,
+        "violations": []
+      },
+      {
+        "page": "home",
+        "width": 390,
+        "violations": []
+      },
+      {
+        "page": "mairie",
+        "width": 390,
+        "violations": []
+      },
+      {
+        "page": "article",
+        "width": 390,
+        "violations": []
+      },
+      {
+        "page": "agenda",
+        "width": 390,
+        "violations": []
+      },
+      {
+        "page": "booking",
+        "width": 390,
+        "violations": []
+      },
+      {
+        "page": "map",
+        "width": 390,
+        "violations": []
+      },
+      {
+        "page": "citizen",
+        "width": 390,
+        "violations": []
+      },
+      {
+        "page": "admin",
+        "width": 390,
+        "violations": []
+      }
+    ],
+    "errors": [],
+    "routes": [
+      "/demos/municipal-website/",
+      "/demos/municipal-website/mairie/",
+      "/demos/municipal-website/mairie/equipe/",
+      "/demos/municipal-website/mairie/conseil/",
+      "/demos/municipal-website/mairie/deliberations/",
+      "/demos/municipal-website/mairie/budget/",
+      "/demos/municipal-website/mairie/projets/",
+      "/demos/municipal-website/mairie/services/",
+      "/demos/municipal-website/demarches/",
+      "/demos/municipal-website/demarches/etat-civil/",
+      "/demos/municipal-website/demarches/urbanisme/",
+      "/demos/municipal-website/demarches/inscriptions/",
+      "/demos/municipal-website/demarches/dechets/",
+      "/demos/municipal-website/vivre/",
+      "/demos/municipal-website/vivre/enfance/",
+      "/demos/municipal-website/vivre/education/",
+      "/demos/municipal-website/vivre/solidarite/",
+      "/demos/municipal-website/vivre/sante/",
+      "/demos/municipal-website/vivre/sport/",
+      "/demos/municipal-website/vivre/culture/",
+      "/demos/municipal-website/vivre/associations/",
+      "/demos/municipal-website/vivre/commerces/",
+      "/demos/municipal-website/vivre/mobilite/",
+      "/demos/municipal-website/vivre/environnement/",
+      "/demos/municipal-website/decouvrir/",
+      "/demos/municipal-website/decouvrir/patrimoine/",
+      "/demos/municipal-website/decouvrir/nature/",
+      "/demos/municipal-website/decouvrir/histoire/",
+      "/demos/municipal-website/actualites/place-aux-rencontres/",
+      "/demos/municipal-website/actualites/cours-plus-fraiches/",
+      "/demos/municipal-website/actualites/berges-du-lior/",
+      "/demos/municipal-website/actualites/mediatheque-hiver/",
+      "/demos/municipal-website/actualites/arbres-avenir/",
+      "/demos/municipal-website/actualites/sports-ouverts/",
+      "/demos/municipal-website/agenda/marche-hiver/",
+      "/demos/municipal-website/agenda/concert-pierres/",
+      "/demos/municipal-website/agenda/balade-avelines/",
+      "/demos/municipal-website/agenda/atelier-numerique/",
+      "/demos/municipal-website/agenda/atelier-ecoles/",
+      "/demos/municipal-website/agenda/dimanche-sport/",
+      "/demos/municipal-website/agenda/cafe-lecture/",
+      "/demos/municipal-website/agenda/conseil-decembre/",
+      "/demos/municipal-website/annuaire/hotel-ville/",
+      "/demos/municipal-website/annuaire/service-urbanisme/",
+      "/demos/municipal-website/annuaire/mediatheque/",
+      "/demos/municipal-website/annuaire/ecole-bourg/",
+      "/demos/municipal-website/annuaire/parc-sportif/",
+      "/demos/municipal-website/annuaire/jardin-avelines/",
+      "/demos/municipal-website/annuaire/amis-lior/",
+      "/demos/municipal-website/annuaire/atelier-partage/",
+      "/demos/municipal-website/annuaire/tennis-olivettes/",
+      "/demos/municipal-website/annuaire/pain-rives/",
+      "/demos/municipal-website/annuaire/epicerie-bourg/",
+      "/demos/municipal-website/annuaire/tour-bourg/",
+      "/demos/municipal-website/actualites/",
+      "/demos/municipal-website/agenda/",
+      "/demos/municipal-website/annuaire/",
+      "/demos/municipal-website/carte/",
+      "/demos/municipal-website/demarches/salles/",
+      "/demos/municipal-website/demarches/rendez-vous/",
+      "/demos/municipal-website/demarches/signalement/",
+      "/demos/municipal-website/espace-citoyen/",
+      "/demos/municipal-website/recherche/",
+      "/demos/municipal-website/contact/",
+      "/demos/municipal-website/decouvrir/galerie/",
+      "/demos/municipal-website/plan-du-site/",
+      "/demos/municipal-website/mentions-legales/",
+      "/demos/municipal-website/confidentialite/",
+      "/demos/municipal-website/accessibilite/",
+      "/demos/municipal-website/administration/",
+      "/demos/municipal-website/credits/"
+    ]
+  },
+  "production": {
+    "pages": [
+      {
+        "url": "https://thecatsizerlab.github.io/",
+        "status": 200,
+        "h1": "Websites,\nbusiness software\n& mobile apps."
+      },
+      {
+        "url": "https://thecatsizerlab.github.io/fr/",
+        "status": 200,
+        "h1": "Sites web,\nlogiciels métiers\net applications mobiles."
+      },
+      {
+        "url": "https://thecatsizerlab.github.io/projects/municipal-portal.html",
+        "status": 200,
+        "h1": "Valmer-sur-Rive"
+      },
+      {
+        "url": "https://thecatsizerlab.github.io/demos/municipal-website/",
+        "status": 200,
+        "h1": "Une ville\nà vivre."
+      },
+      {
+        "url": "https://thecatsizerlab.github.io/demos/municipal-website/administration/",
+        "status": 200,
+        "h1": "Vue d’ensemble"
+      },
+      {
+        "url": "https://thecatsizerlab.github.io/demos/municipal-website/agenda/marche-hiver/",
+        "status": 200,
+        "h1": "Le marché d’hiver des Tilleuls"
+      },
+      {
+        "url": "https://thecatsizerlab.github.io/projects/image-resizer.html",
+        "status": 200,
+        "h1": "Image Resizer: Compress & Edit"
+      },
+      {
+        "url": "https://thecatsizerlab.github.io/projects/rescue-crew.html",
+        "status": 200,
+        "h1": "Rescue Crew"
+      },
+      {
+        "url": "https://thecatsizerlab.github.io/demos/learning-studio/",
+        "status": 200,
+        "h1": "Les échanges ouvrent\ndes perspectives.\nFaisons-les grandir."
+      },
+      {
+        "url": "https://thecatsizerlab.github.io/demos/cress-centre-val-de-loire/",
+        "status": 200,
+        "h1": "L’économie sociale\net solidaire\nfait vivre\nnos territoires."
+      }
+    ],
+    "js_errors": []
+  },
+  "language_review_2026_11_25": {
+    "static_pages": 75,
+    "layouts": [
+      {
+        "width": 320,
+        "path": "/demos/municipal-website/",
+        "overflow": false
+      },
+      {
+        "width": 320,
+        "path": "/fr/",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "/demos/municipal-website/",
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "path": "/fr/",
+        "overflow": false
+      },
+      {
+        "width": 481,
+        "path": "/demos/municipal-website/",
+        "overflow": false
+      },
+      {
+        "width": 481,
+        "path": "/fr/",
+        "overflow": false
+      },
+      {
+        "width": 700,
+        "path": "/demos/municipal-website/",
+        "overflow": false
+      },
+      {
+        "width": 700,
+        "path": "/fr/",
+        "overflow": false
+      },
+      {
+        "width": 768,
+        "path": "/demos/municipal-website/",
+        "overflow": false
+      },
+      {
+        "width": 768,
+        "path": "/fr/",
+        "overflow": false
+      },
+      {
+        "width": 1024,
+        "path": "/demos/municipal-website/",
+        "overflow": false
+      },
+      {
+        "width": 1024,
+        "path": "/fr/",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "/demos/municipal-website/",
+        "overflow": false
+      },
+      {
+        "width": 1440,
+        "path": "/fr/",
+        "overflow": false
+      }
+    ],
+    "confirmations": [
+      "Votre réservation fictive est enregistrée.",
+      "Votre rendez-vous fictif est enregistré."
+    ],
+    "admin_editors": [
+      "Créer une actualité",
+      "Créer un événement",
+      "Créer une page",
+      "Créer une alerte",
+      "Créer une fiche",
+      "Créer une salle"
+    ],
+    "js_errors": []
+  }
+}

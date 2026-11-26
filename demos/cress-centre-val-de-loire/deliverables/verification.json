@@ -1,0 +1,41 @@
+{
+  "scope": "Finalisation du concept indépendant de José Giovinazzo",
+  "verified_on": "2026-11-23",
+  "widths": {
+    "320": "No overflow",
+    "375": "No overflow",
+    "390": "No overflow",
+    "768": "No overflow",
+    "1024": "No overflow",
+    "1440": "No overflow",
+    "1920": "No overflow"
+  },
+  "interactions": [
+    "All 79 EPCI selections checked: labels, synchronized map, local preview destinations linked to the original sources",
+    "Keyboard map activation",
+    "Accent insensitive resource search, type filter, empty state, reset",
+    "Global search, dialog Escape, native focus management",
+    "Credits, rights status, authorship, information dialogs, close buttons",
+    "Mobile menus: all internal destinations and toggle tested at 320,375,390,768px"
+  ],
+  "photos": {
+    "licensed_photographs": 4,
+    "license": "Pexels",
+    "cover": "Original SVG",
+    "captions": "Illustration, no CRESS identities attributed"
+  },
+  "editorial_checks": [
+    "Exact requested banner",
+    "Independent author in footer",
+    "No institutional copyright claim",
+    "noindex,nofollow,noimageindex",
+    "8 original sections and 4 pathways preserved",
+    "Demo scope visible next to controls"
+  ],
+  "automated_accessibility": {
+    "violations": [],
+    "passes": 26
+  },
+  "images": "All images loaded",
+  "javascript_errors": []
+}

@@ -1,0 +1,383 @@
+{
+  "pages": 430,
+  "broken_links": [],
+  "untranslated": [],
+  "metadata_errors": [],
+  "screenshots": [
+    {
+      "language": "fr",
+      "page": "fr\\index.html",
+      "asset": "/assets/media/municipal/home.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\index.html",
+      "asset": "/assets/media/municipal/home.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/home.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/services.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/services.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/map.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/map.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/administration.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/administration.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/mobile.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/mobile.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/mobile-services.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/mobile-services.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/mobile-booking.webp"
+    },
+    {
+      "language": "fr",
+      "page": "fr\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/mobile-booking.webp"
+    },
+    {
+      "language": "en",
+      "page": "index.html",
+      "asset": "/assets/media/municipal/en/home.webp"
+    },
+    {
+      "language": "en",
+      "page": "index.html",
+      "asset": "/assets/media/municipal/en/home.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/home.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/services.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/services.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/map.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/map.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/administration.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/administration.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/mobile.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/mobile.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/mobile-services.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/mobile-services.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/mobile-booking.webp"
+    },
+    {
+      "language": "en",
+      "page": "projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/en/mobile-booking.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\index.html",
+      "asset": "/assets/media/municipal/es/home.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\index.html",
+      "asset": "/assets/media/municipal/es/home.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/home.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/services.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/services.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/map.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/map.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/administration.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/administration.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/mobile.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/mobile.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/mobile-services.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/mobile-services.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/mobile-booking.webp"
+    },
+    {
+      "language": "es",
+      "page": "es\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/es/mobile-booking.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\index.html",
+      "asset": "/assets/media/municipal/it/home.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\index.html",
+      "asset": "/assets/media/municipal/it/home.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/home.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/services.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/services.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/map.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/map.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/administration.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/administration.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/mobile.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/mobile.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/mobile-services.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/mobile-services.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/mobile-booking.webp"
+    },
+    {
+      "language": "it",
+      "page": "it\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/it/mobile-booking.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\index.html",
+      "asset": "/assets/media/municipal/de/home.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\index.html",
+      "asset": "/assets/media/municipal/de/home.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/home.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/services.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/services.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/map.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/map.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/administration.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/administration.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/mobile.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/mobile.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/mobile-services.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/mobile-services.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/mobile-booking.webp"
+    },
+    {
+      "language": "de",
+      "page": "de\\projects\\municipal-portal.html",
+      "asset": "/assets/media/municipal/de/mobile-booking.webp"
+    }
+  ]
+}

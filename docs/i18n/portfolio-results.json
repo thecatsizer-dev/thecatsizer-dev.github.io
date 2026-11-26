@@ -1,0 +1,304 @@
+{
+  "layouts": [
+    {
+      "language": "fr",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "case",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "case",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "case",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "case",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "portfolio",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "portfolio",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "portfolio",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "portfolio",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "case",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "case",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "case",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "case",
+      "width": 320,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "galleries": [
+    "fr",
+    "en",
+    "es",
+    "it",
+    "de"
+  ],
+  "language_links": [
+    {
+      "language": "fr",
+      "page": "portfolio",
+      "targets": 5
+    },
+    {
+      "language": "fr",
+      "page": "case",
+      "targets": 5
+    },
+    {
+      "language": "en",
+      "page": "portfolio",
+      "targets": 5
+    },
+    {
+      "language": "en",
+      "page": "case",
+      "targets": 5
+    },
+    {
+      "language": "es",
+      "page": "portfolio",
+      "targets": 5
+    },
+    {
+      "language": "es",
+      "page": "case",
+      "targets": 5
+    },
+    {
+      "language": "it",
+      "page": "portfolio",
+      "targets": 5
+    },
+    {
+      "language": "it",
+      "page": "case",
+      "targets": 5
+    },
+    {
+      "language": "de",
+      "page": "portfolio",
+      "targets": 5
+    },
+    {
+      "language": "de",
+      "page": "case",
+      "targets": 5
+    }
+  ]
+}

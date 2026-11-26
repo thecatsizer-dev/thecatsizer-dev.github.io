@@ -1,0 +1,96 @@
+1186	Request type	Tipo de solicitud	Tipo di richiesta	Art des Anliegens
+1187	All requests	Todas las solicitudes	Tutte le richieste	Alle Anfragen
+1189	No requests yet.	Todavía no hay solicitudes.	Nessuna richiesta per il momento.	Noch keine Anfragen vorhanden.
+1190	Try a report, appointment or booking from the public website. The data will appear here.	Prueba un aviso, una cita o una reserva desde el sitio público. Los datos aparecerán aquí.	Prova una segnalazione, un appuntamento o una prenotazione dal sito pubblico. I dati appariranno qui.	Probieren Sie auf der öffentlichen Website eine Meldung, einen Termin oder eine Buchung aus. Die Daten erscheinen hier.
+1191	Try a service	Probar un trámite	Prova una pratica	Ein Anliegen ausprobieren
+1192	Previous	Anterior	Precedente	Zurück
+1194	Next	Siguiente	Successivo	Weiter
+1204	Previous availability month	Mes de disponibilidad anterior	Mese di disponibilità precedente	Vorheriger Verfügbarkeitsmonat
+1205	Next availability month	Mes de disponibilidad siguiente	Mese di disponibilità successivo	Nächster Verfügbarkeitsmonat
+1236	Demo summary	Resumen de demostración	Riepilogo dimostrativo	Demo-Zusammenfassung
+1238	Time slot	Franja horaria	Fascia oraria	Zeitfenster
+1239	Purpose	Motivo	Motivo	Anlass
+1240	Nothing is actually sent. This slot will be occupied only in your local demonstration.	No se envía nada realmente. Esta franja quedará ocupada solo en tu demostración local.	Non viene trasmesso nulla. Questa fascia sarà occupata soltanto nella tua dimostrazione locale.	Es wird nichts tatsächlich übermittelt. Dieses Zeitfenster wird nur in Ihrer lokalen Demonstration belegt.
+1241	Confirm the simulation	Confirmar la simulación	Conferma la simulazione	Simulation bestätigen
+1242	Change my selection	Cambiar mi elección	Modifica la scelta	Auswahl ändern
+1243	Your fictional booking has been saved.	Tu reserva ficticia se ha guardado.	La tua prenotazione immaginaria è stata registrata.	Ihre fiktive Buchung wurde gespeichert.
+1246	Follow its status in your citizen area.	Consulta su estado en tu área ciudadana.	Segui il suo stato nella tua area personale.	Verfolgen Sie den Status in Ihrem Bürgerbereich.
+1247	View my request	Ver mi solicitud	Visualizza la richiesta	Meine Anfrage ansehen
+1256	Your fictional appointment has been saved.	Tu cita ficticia se ha guardado.	Il tuo appuntamento immaginario è stato registrato.	Ihr fiktiver Termin wurde gespeichert.
+1259	Your fictional report has been saved.	Tu aviso ficticio se ha guardado.	La tua segnalazione immaginaria è stata registrata.	Ihre fiktive Meldung wurde gespeichert.
+1261	Fictional demo situation.	Situación ficticia de demostración.	Situazione immaginaria dimostrativa.	Fiktive Demo-Situation.
+1262	No real team has been alerted. Follow-up is available in your citizen area.	No se ha avisado a ningún equipo real. El seguimiento está disponible en tu área ciudadana.	Nessuna squadra reale è stata avvisata. Puoi seguire lo stato nella tua area personale.	Es wurde kein echtes Team benachrichtigt. Die Nachverfolgung ist in Ihrem Bürgerbereich verfügbar.
+1263	Track my request	Seguir mi solicitud	Segui la richiesta	Meine Anfrage verfolgen
+1265	Awaiting confirmation	Pendiente de confirmación	Da confermare	Bestätigung ausstehend
+1268	Saved	Registrada	Registrata	Erfasst
+1269	Your demo request has been saved. No real service has been contacted.	Tu solicitud de demostración se ha guardado. No se ha contactado con ningún servicio real.	La tua richiesta dimostrativa è stata registrata. Nessun servizio reale è stato contattato.	Ihre Demo-Anfrage wurde gespeichert. Es wurde keine echte Dienststelle kontaktiert.
+1270	Your fictional report has been saved. You can change its status in the administration demo.	Tu aviso ficticio se ha guardado. Puedes cambiar su estado en la administración de demostración.	La tua segnalazione immaginaria è stata registrata. Puoi cambiarne lo stato nell’amministrazione dimostrativa.	Ihre fiktive Meldung wurde gespeichert. Den Status können Sie in der Verwaltungsdemo ändern.
+1274	Request status	Estado de la solicitud	Stato della richiesta	Status der Anfrage
+1275	In progress	En curso	In corso	In Bearbeitung
+1276	Confirmed	Confirmada	Confermata	Bestätigt
+1277	Completed	Tramitada	Completata	Erledigt
+1278	Declined	Rechazada	Rifiutata	Abgelehnt
+1279	Cancelled	Cancelada	Annullata	Storniert
+1280	Notification shown in the citizen area	Notificación visible en el área ciudadana	Notifica visibile nell’area personale	Benachrichtigung im Bürgerbereich
+1281	Update progress	Actualizar el seguimiento	Aggiorna lo stato	Bearbeitungsstand aktualisieren
+1285	a news article	una noticia	una notizia	eine Nachricht
+1286	an event	un evento	un evento	eine Veranstaltung
+1287	news article	noticia	notizia	Nachricht
+1288	event	evento	evento	Veranstaltung
+1289	Published	Publicada	Pubblicata	Veröffentlicht
+1290	item	elemento	elemento	Element
+1291	Create	Crear	Crea	Erstellen
+1292	Enter a title.	Introduce un título.	Inserisci un titolo.	Geben Sie einen Titel ein.
+1293	The end time must be after the start time.	La hora de finalización debe ser posterior a la de inicio.	L’ora di fine deve essere successiva all’ora di inizio.	Das Ende muss nach dem Beginn liegen.
+1294	Enter a valid date.	Introduce una fecha válida.	Inserisci una data valida.	Geben Sie ein gültiges Datum ein.
+1295	Use only a fictional address ending in .example.	Utiliza solo una dirección ficticia terminada en .example.	Usa soltanto un indirizzo immaginario che termini con .example.	Verwenden Sie nur eine fiktive Adresse mit der Endung .example.
+1296	Illustrative street image attached to the simulation	Imagen ilustrativa de una calle adjunta a la simulación	Immagine illustrativa di una strada allegata alla simulazione	Symbolfoto einer Straße als Anhang zur Simulation
+1297	Publication saved. The public website in this browser is up to date.	Publicación guardada. El sitio público de este navegador está actualizado.	Pubblicazione registrata. Il sito pubblico in questo browser è aggiornato.	Veröffentlichung gespeichert. Die öffentliche Website in diesem Browser ist aktuell.
+1298	Draft saved. It does not appear on the public website.	Borrador guardado. No aparece en el sitio público.	Bozza salvata. Non compare nel sito pubblico.	Entwurf gespeichert. Er erscheint nicht auf der öffentlichen Website.
+1299	Preview — nothing has been published yet	Vista previa — todavía no se ha publicado nada	Anteprima — nulla è ancora pubblicato	Vorschau — noch nichts veröffentlicht
+1300	, not yet saved.	, pendiente de guardar.	, da salvare.	, noch zu speichern.
+1301	Local progress updated.	Seguimiento local actualizado.	Stato locale aggiornato.	Lokaler Bearbeitungsstand aktualisiert.
+1302	Reset this demonstration?	¿Restablecer esta demostración?	Ripristinare questa dimostrazione?	Diese Demonstration zurücksetzen?
+1303	The demonstration has been reset to its original content.	La demostración se ha restablecido con sus contenidos iniciales.	La dimostrazione è stata ripristinata con i contenuti iniziali.	Die Demonstration wurde auf ihre ursprünglichen Inhalte zurückgesetzt.
+1304	Storage is blocked in this browser. Changes will not be kept after reloading.	El almacenamiento de este navegador está bloqueado. Los cambios no se conservarán al recargar.	La memoria di questo browser è bloccata. Le modifiche non saranno conservate dopo il ricaricamento.	Der Speicher dieses Browsers ist gesperrt. Änderungen bleiben nach dem Neuladen nicht erhalten.
+1305	Data changed in another tab. Your current input has been kept.	Los datos han cambiado en otra pestaña. Se conserva lo que estás escribiendo.	I dati sono cambiati in un’altra scheda. Il testo che stai inserendo è conservato.	Daten wurden in einem anderen Tab geändert. Ihre aktuelle Eingabe bleibt erhalten.
+1306	Local storage is unavailable. Your changes are temporary.	El almacenamiento local no está disponible. Tus cambios son temporales.	La memoria locale non è disponibile. Le tue modifiche sono temporanee.	Der lokale Speicher ist nicht verfügbar. Ihre Änderungen sind vorübergehend.
+1307	news	actualidad	notizie	Nachrichten
+1308	Article link copied.	Enlace del artículo copiado.	Link dell’articolo copiato.	Artikellink kopiert.
+1309	Copy this address:	Copia esta dirección:	Copia questo indirizzo:	Kopieren Sie diese Adresse:
+1310	Enter a fictional subject and message.	Introduce un asunto y un mensaje ficticios.	Inserisci un oggetto e un messaggio immaginari.	Geben Sie einen fiktiven Betreff und eine fiktive Nachricht ein.
+1311	Local storage unavailable: examples will be temporary.	Almacenamiento local no disponible: los ejemplos serán temporales.	Memoria locale non disponibile: gli esempi saranno temporanei.	Lokaler Speicher nicht verfügbar: Die Beispiele bleiben vorübergehend.
+1312	Local data has changed. Availability is checked before confirmation.	Los datos locales han cambiado. La disponibilidad se comprueba antes de confirmar.	I dati locali sono cambiati. Le disponibilità vengono verificate prima della conferma.	Lokale Daten wurden geändert. Die Verfügbarkeit wird vor der Bestätigung geprüft.
+1313	Projector, modular furniture, kitchenette, step-free access	Proyector, mobiliario modular, pequeña cocina, acceso sin escalones	Videoproiettore, arredi modulari, angolo cottura, accesso senza gradini	Beamer, flexible Möblierung, Teeküche, stufenloser Zugang
+1314	Workshop tables, screen, water point, hearing loop	Mesas de taller, pantalla, punto de agua, bucle de inducción magnética	Tavoli da laboratorio, schermo, punto acqua, sistema a induzione magnetica	Arbeitstische, Bildschirm, Wasseranschluss, induktive Höranlage
+1315	Furniture, terrace, preparation area, step-free access	Mobiliario, terraza, zona de preparación, acceso sin escalones	Arredi, terrazza, spazio di preparazione, accesso senza gradini	Möblierung, Terrasse, Vorbereitungsbereich, stufenloser Zugang
+1316	Find the schedule and routes for this fictional project.	Consulta el calendario y los recorridos de esta obra ficticia.	Consulta il calendario e gli itinerari di questo cantiere immaginario.	Hier finden Sie Zeitplan und Wege für dieses fiktive Bauvorhaben.
+1317	available slot	franja disponible	fascia disponibile	verfügbares Zeitfenster
+1318	available slots	franjas disponibles	fasce disponibili	verfügbare Zeitfenster
+1319	Choose an available slot.	Elige una franja disponible.	Scegli una fascia disponibile.	Wählen Sie ein verfügbares Zeitfenster.
+1320	This service is no longer available.	Este servicio ya no está disponible.	Questo servizio non è più disponibile.	Diese Dienstleistung ist nicht mehr verfügbar.
+1321	This slot is no longer available. Choose another one.	Esta franja ya no está disponible. Elige otra.	Questa fascia non è più disponibile. Scegline un’altra.	Dieses Zeitfenster ist nicht mehr verfügbar. Wählen Sie ein anderes.
+1322	This slot has just been taken. Change your selection.	Esta franja acaba de ocuparse. Cambia tu elección.	Questa fascia è appena stata occupata. Modifica la tua scelta.	Dieses Zeitfenster wurde gerade belegt. Ändern Sie Ihre Auswahl.
+1323	Storage is blocked: this example will be lost when the page reloads.	El almacenamiento está bloqueado: este ejemplo se perderá al recargar la página.	La memoria è bloccata: questo esempio andrà perso al ricaricamento della pagina.	Der Speicher ist gesperrt. Dieses Beispiel geht beim Neuladen der Seite verloren.
+1324	· fictional map	· plano ficticio	· mappa immaginaria	· fiktiver Plan
+1325	Describe the fictional situation in at least 10 characters.	Describe la situación ficticia con al menos 10 caracteres.	Descrivi la situazione immaginaria con almeno 10 caratteri.	Beschreiben Sie die fiktive Situation mit mindestens 10 Zeichen.
+1326	Follow-up is available in your citizen area.	El seguimiento está disponible en tu área ciudadana.	Puoi seguire lo stato nella tua area personale.	Die Nachverfolgung ist in Ihrem Bürgerbereich verfügbar.
+1327	Storage is blocked: the example will be lost when the page reloads.	El almacenamiento está bloqueado: el ejemplo se perderá al recargar la página.	La memoria è bloccata: l’esempio andrà perso al ricaricamento della pagina.	Der Speicher ist gesperrt. Das Beispiel geht beim Neuladen der Seite verloren.
+1328	DEMONSTRATION	DEMOSTRACIÓN	DIMOSTRAZIONE	DEMONSTRATION
+1329	Fictional event, no real gathering.	Evento ficticio, no existe ninguna actividad real.	Evento immaginario, nessuna manifestazione reale.	Fiktive Veranstaltung, kein echtes Ereignis.
+1330	A service to try	Un trámite para probar	Una pratica da provare	Ein Anliegen zum Ausprobieren
+1331	Illustrative photograph:	Fotografía ilustrativa:	Fotografia illustrativa:	Symbolfoto:
+1332	A booking	Una reserva	Una prenotazione	Eine Buchung
+1333	An appointment booking	Una solicitud de cita	Una prenotazione di appuntamento	Eine Terminbuchung
+1334	A citizen area	Un área ciudadana	Un’area personale	Ein Bürgerbereich
+1335	bookings	reservas	prenotazioni	Buchungen
+1336	Demo report	Aviso de demostración	Segnalazione dimostrativa	Demo-Meldung
+1337	result	resultado	risultato	Ergebnis
+1338	No results. Try a shorter term or a different spelling.	No hay resultados. Prueba con una palabra más corta o con otra forma de escribirla.	Nessun risultato. Prova un termine più breve o un’altra ortografia.	Keine Ergebnisse. Versuchen Sie einen kürzeren Begriff oder eine andere Schreibweise.
+1339	A contact request	Una toma de contacto	Un contatto	Eine Kontaktaufnahme
+1340	Book a municipal room	Reservar una sala municipal	Prenota una sala comunale	Kommunalen Raum buchen
+1341	Rooms, capacities, equipment and simulated availability.	Salas, capacidades, equipamiento y disponibilidad simulada.	Sale, capienze, attrezzature e disponibilità simulate.	Räume, Kapazitäten, Ausstattung und simulierte Verfügbarkeit.
+1342	Civil registration, planning, children’s services and council affairs.	Registro civil, urbanismo, infancia y vida municipal.	Stato civile, urbanistica, infanzia e vita comunale.	Standesamt, Stadtplanung, Kinder und kommunale Angelegenheiten.
+1343	Roads, lighting, cleanliness and green spaces.	Vías, alumbrado, limpieza y zonas verdes.	Strade, illuminazione, pulizia e aree verdi.	Straßen, Beleuchtung, Sauberkeit und Grünflächen.
+1344	Opening hours and contacts	Horarios y contactos	Orari e contatti	Öffnungszeiten und Kontakte
+1345	Service directory and demo contact details.	Directorio de servicios y contacto de demostración.	Elenco dei servizi e contatti dimostrativi.	Dienststellenverzeichnis und Demo-Kontakt.

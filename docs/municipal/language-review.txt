@@ -1,0 +1,34 @@
+RELECTURE ET TRADUCTIONS — 25 NOVEMBRE 2026
+
+Périmètre : les textes du portail municipal français, de son administration locale,
+de la présentation française du portfolio, de l’accueil anglais et de la fiche
+municipale anglaise. Les marques, noms d’applications et noms propres sont conservés.
+
+Corrections :
+- Articles et accords explicites : « Un espace citoyen », « Un signalement »,
+  « Votre réservation fictive est enregistrée ».
+- Intitulés de navigation naturels, sans préfixe grammatical générique.
+- Articles dans les titres des six éditeurs de contenu.
+- Compteurs au singulier ou au pluriel ; « réservation » accentué à l’affichage.
+- Libellés français des liens associés dans l’administration.
+- Traduction des légendes, étiquettes de projet, descriptions d’images et libellés
+  d’accessibilité de la présentation française du portfolio.
+- Titres et descriptions des crédits photographiques en français, en conservant
+  les noms, sources, licences et métadonnées d’attribution d’origine.
+- Accès à l’administration dans le bandeau sur ordinateur et le menu mobile.
+
+Langues : le portail municipal est en français. Le portfolio possède un accueil
+anglais et une présentation française. Les fiches de projet sont en anglais,
+comme l’indique la présentation française. Aucune langue supplémentaire ni aucun
+backend n’est ajouté par cette révision.
+
+Vérifications : cinq tests unitaires réussis ; contrôle ciblé des 75 pages générées,
+14 contrôles de mise en page de 320 à 1440 px, confirmations de réservation et de
+rendez-vous, navigation mobile, six éditeurs et filtre des demandes. Aucune erreur
+JavaScript relevée. Les captures ont été relues. Les précédentes mesures Lighthouse
+datent du 24 novembre 2026 ; elles ne sont pas présentées comme une nouvelle mesure.
+
+Les contenus édités par un visiteur dans son stockage local restent ses propres
+contenus ; la révision ne les réinitialise pas. L’administration et les démarches
+restent simulées localement. Un audit RGAA complet et un backend de production
+relèveraient d’une prestation distincte.

@@ -1,0 +1,92 @@
+Valmer-sur-Rive, une ville à vivre	Valmer-sur-Rive, a town to call home	Valmer-sur-Rive, una ciudad para vivir	Valmer-sur-Rive, una città da vivere	Valmer-sur-Rive, eine Stadt zum Leben
+Démonstration Valmer-sur-Rive	Valmer-sur-Rive demonstration	Demostración de Valmer-sur-Rive	Dimostrazione Valmer-sur-Rive	Demonstration Valmer-sur-Rive
+Concept TheCatsizerLab	TheCatsizerLab concept	Concepto de TheCatsizerLab	Concept TheCatsizerLab	Konzept von TheCatsizerLab
+Une page de Valmer	A page of Valmer	Una página de Valmer	Una pagina di Valmer	Eine Seite von Valmer
+Un lieu de Valmer	A place in Valmer	Un lugar de Valmer	Un luogo di Valmer	Ein Ort in Valmer
+Un rendez-vous à Valmer	An event in Valmer	Un evento en Valmer	Un evento a Valmer	Eine Veranstaltung in Valmer
+Une actualité de Valmer	News from Valmer	Una noticia de Valmer	Una notizia di Valmer	Eine Nachricht aus Valmer
+{count} actualité	{count} news item	{count} noticia	{count} notizia	{count} Nachricht
+{count} actualités	{count} news items	{count} noticias	{count} notizie	{count} Nachrichten
+{count} événement	{count} event	{count} evento	{count} evento	{count} Veranstaltung
+{count} événements	{count} events	{count} eventos	{count} eventi	{count} Veranstaltungen
+{count} événement ce mois-ci. Sur petit écran, la liste reste disponible.	{count} event this month. List view remains available on small screens.	{count} evento este mes. La vista de lista sigue disponible en pantallas pequeñas.	{count} evento questo mese. Sugli schermi piccoli resta disponibile la vista elenco.	{count} Veranstaltung in diesem Monat. Auf kleinen Bildschirmen bleibt die Listenansicht verfügbar.
+{count} événements ce mois-ci. Sur petit écran, la liste reste disponible.	{count} events this month. List view remains available on small screens.	{count} eventos este mes. La vista de lista sigue disponible en pantallas pequeñas.	{count} eventi questo mese. Sugli schermi piccoli resta disponibile la vista elenco.	{count} Veranstaltungen in diesem Monat. Auf kleinen Bildschirmen bleibt die Listenansicht verfügbar.
+{count} suggestion	{count} suggestion	{count} sugerencia	{count} suggerimento	{count} Vorschlag
+{count} suggestions	{count} suggestions	{count} sugerencias	{count} suggerimenti	{count} Vorschläge
+{count} résultat pour « {query} »	{count} result for “{query}”	{count} resultado para «{query}»	{count} risultato per «{query}»	{count} Ergebnis für „{query}“
+{count} résultats pour « {query} »	{count} results for “{query}”	{count} resultados para «{query}»	{count} risultati per «{query}»	{count} Ergebnisse für „{query}“
+{count} personnes	{count} people	{count} personas	{count} persone	{count} Personen
+{count} libre	{count} free	{count} libre	{count} libera	{count} frei
+{count} libres	{count} free	{count} libres	{count} libere	{count} frei
+{count} créneau disponible	{count} available slot	{count} franja disponible	{count} fascia disponibile	{count} verfügbares Zeitfenster
+{count} créneaux disponibles	{count} available slots	{count} franjas disponibles	{count} fasce disponibili	{count} verfügbare Zeitfenster
+{date}, {count} créneau disponible	{date}, {count} available slot	{date}, {count} franja disponible	{date}, {count} fascia disponibile	{date}, {count} verfügbares Zeitfenster
+{date}, {count} créneaux disponibles	{date}, {count} available slots	{date}, {count} franjas disponibles	{date}, {count} fasce disponibili	{date}, {count} verfügbare Zeitfenster
+{count} blocage manuel.	{count} manual block.	{count} bloqueo manual.	{count} blocco manuale.	{count} manuelle Sperre.
+{count} blocages manuels.	{count} manual blocks.	{count} bloqueos manuales.	{count} blocchi manuali.	{count} manuelle Sperren.
+{count} blocage manuel, à enregistrer.	{count} manual block, not yet saved.	{count} bloqueo manual, pendiente de guardar.	{count} blocco manuale, da salvare.	{count} manuelle Sperre, noch zu speichern.
+{count} blocages manuels, à enregistrer.	{count} manual blocks, not yet saved.	{count} bloqueos manuales, pendientes de guardar.	{count} blocchi manuali, da salvare.	{count} manuelle Sperren, noch zu speichern.
+{count} demande locale.	{count} local request.	{count} solicitud local.	{count} richiesta locale.	{count} lokale Anfrage.
+{count} demandes locales.	{count} local requests.	{count} solicitudes locales.	{count} richieste locali.	{count} lokale Anfragen.
+{count} élément dans votre démonstration.	{count} item in your demo.	{count} elemento en tu demostración.	{count} elemento nella tua dimostrazione.	{count} Element in Ihrer Demo.
+{count} éléments dans votre démonstration.	{count} items in your demo.	{count} elementos en tu demostración.	{count} elementi nella tua dimostrazione.	{count} Elemente in Ihrer Demo.
+{count} page dans votre démonstration.	{count} page in your demo.	{count} página en tu demostración.	{count} pagina nella tua dimostrazione.	{count} Seite in Ihrer Demo.
+{count} pages dans votre démonstration.	{count} pages in your demo.	{count} páginas en tu demostración.	{count} pagine nella tua dimostrazione.	{count} Seiten in Ihrer Demo.
+{count} salle dans votre démonstration.	{count} room in your demo.	{count} sala en tu demostración.	{count} sala nella tua dimostrazione.	{count} Raum in Ihrer Demo.
+{count} salles dans votre démonstration.	{count} rooms in your demo.	{count} salas en tu demostración.	{count} sale nella tua dimostrazione.	{count} Räume in Ihrer Demo.
+signalements	reports	avisos	segnalazioni	Meldungen
+{time} · indisponible	{time} · unavailable	{time} · no disponible	{time} · non disponibile	{time} · nicht verfügbar
+indisponible	unavailable	no disponible	non disponibile	nicht verfügbar
+{time} : accueil. Présentation et échanges, puis clôture à {end}.	{time}: welcome. Presentation and discussion, ending at {end}.	{time}: bienvenida. Presentación y conversación, con cierre a las {end}.	{time}: accoglienza. Presentazione e confronto, con chiusura alle {end}.	{time} Uhr: Empfang. Vorstellung und Austausch, Ende um {end} Uhr.
+adresse fictive.	fictional address.	dirección ficticia.	indirizzo immaginario.	fiktive Adresse.
+Photographie d’illustration : {title}	Illustrative photograph: {title}	Fotografía ilustrativa: {title}	Fotografia illustrativa: {title}	Symbolfoto: {title}
+Agrandir : {title}	Enlarge: {title}	Ampliar: {title}	Ingrandisci: {title}	Vergrößern: {title}
+Référence : {reference}	Reference: {reference}	Referencia: {reference}	Riferimento: {reference}	Referenz: {reference}
+Position sur le plan fictif : {x}, {y}.	Position on the fictional map: {x}, {y}.	Posición en el plano ficticio: {x}, {y}.	Posizione sulla mappa immaginaria: {x}, {y}.	Position auf dem fiktiven Plan: {x}, {y}.
+Position personnalisée sur le plan fictif : {x}, {y}. Le sélecteur reste disponible au clavier.	Custom position on the fictional map: {x}, {y}. The selector remains keyboard accessible.	Posición personalizada en el plano ficticio: {x}, {y}. El selector sigue disponible mediante el teclado.	Posizione personalizzata sulla mappa immaginaria: {x}, {y}. Il selettore resta utilizzabile da tastiera.	Eigene Position auf dem fiktiven Plan: {x}, {y}. Die Auswahl bleibt per Tastatur bedienbar.
+{place} · plan fictif	{place} · fictional map	{place} · plano ficticio	{place} · mappa immaginaria	{place} · fiktiver Plan
+Mise à jour locale : {date}	Local update: {date}	Actualización local: {date}	Aggiornamento locale: {date}	Lokale Aktualisierung: {date}
+Aucune actualité publiée.	No published news.	No hay noticias publicadas.	Nessuna notizia pubblicata.	Keine veröffentlichten Nachrichten.
+Aucune actualité pour ces critères. Essayez un autre mot.	No news matches these filters. Try another word.	No hay noticias con estos criterios. Prueba otra palabra.	Nessuna notizia corrisponde a questi criteri. Prova un’altra parola.	Keine Nachrichten für diese Auswahl. Versuchen Sie ein anderes Wort.
+Aucune actualité pour ces critères.	No news matches these filters.	No hay noticias con estos criterios.	Nessuna notizia corrisponde a questi criteri.	Keine Nachrichten für diese Auswahl.
+Aucun événement dans cette catégorie.	No events in this category.	No hay eventos en esta categoría.	Nessun evento in questa categoria.	Keine Veranstaltungen in dieser Kategorie.
+Aucun résultat. Essayez une autre recherche.	No results. Try another search.	No hay resultados. Prueba otra búsqueda.	Nessun risultato. Prova un’altra ricerca.	Keine Ergebnisse. Versuchen Sie eine andere Suche.
+Aucun créneau ce jour. Choisissez une autre date.	No slots on this date. Choose another date.	No hay franjas para este día. Elige otra fecha.	Nessuna fascia per questo giorno. Scegli un’altra data.	An diesem Tag sind keine Zeitfenster verfügbar. Wählen Sie ein anderes Datum.
+Aucune suggestion. Validez pour voir les résultats.	No suggestions. Submit to see results.	No hay sugerencias. Confirma para ver los resultados.	Nessun suggerimento. Conferma per vedere i risultati.	Keine Vorschläge. Bestätigen Sie, um Ergebnisse zu sehen.
+Aucune catégorie affichée.	No category is displayed.	No se muestra ninguna categoría.	Nessuna categoria visualizzata.	Keine Kategorie wird angezeigt.
+Sélectionnez un lieu dans la liste ou sur le plan fictif.	Select a place in the list or on the fictional map.	Selecciona un lugar en la lista o en el plano ficticio.	Seleziona un luogo nell’elenco o sulla mappa immaginaria.	Wählen Sie einen Ort in der Liste oder auf dem fiktiven Plan.
+Voir la fiche du lieu	View location details	Ver la ficha del lugar	Visualizza la scheda del luogo	Ortseintrag ansehen
+Source et licence dans les	Source and licence in the	Fuente y licencia en los	Fonte e licenza nei	Quelle und Lizenz in den
+crédits photographiques	photographic credits	créditos fotográficos	crediti fotografici	Bildnachweisen
+Simulation terminée. Aucun message n’a été transmis au service {service}.	Simulation complete. No message was sent to the {service} service.	Simulación finalizada. No se ha enviado ningún mensaje al servicio {service}.	Simulazione terminata. Nessun messaggio è stato inviato al servizio {service}.	Simulation abgeschlossen. Es wurde keine Nachricht an die Dienststelle {service} übermittelt.
+Administration indisponible	Administration unavailable	Administración no disponible	Amministrazione non disponibile	Verwaltung nicht verfügbar
+Rechargez la page pour reprendre la démonstration.	Reload the page to resume the demonstration.	Recarga la página para continuar con la demostración.	Ricarica la pagina per riprendere la dimostrazione.	Laden Sie die Seite neu, um die Demonstration fortzusetzen.
+Aucun contenu. Créez un premier élément.	No content yet. Create your first item.	Todavía no hay contenido. Crea el primer elemento.	Nessun contenuto. Crea il primo elemento.	Noch keine Inhalte. Erstellen Sie den ersten Eintrag.
+Pièce jointe d’exemple	Sample attachment	Archivo adjunto de ejemplo	Allegato di esempio	Beispielanhang
+Les contenus, brouillons, signalements, rendez-vous et réservations créés dans ce navigateur seront remplacés par les exemples initiaux. Aucun autre site ni compte n’est concerné.	Content, drafts, reports, appointments and bookings created in this browser will be replaced with the original examples. No other website or account is affected.	Los contenidos, borradores, avisos, citas y reservas creados en este navegador se sustituirán por los ejemplos iniciales. No se verá afectado ningún otro sitio ni cuenta.	Contenuti, bozze, segnalazioni, appuntamenti e prenotazioni creati in questo browser saranno sostituiti dagli esempi iniziali. Nessun altro sito o account è coinvolto.	Inhalte, Entwürfe, Meldungen, Termine und Buchungen aus diesem Browser werden durch die ursprünglichen Beispiele ersetzt. Andere Websites oder Konten sind nicht betroffen.
+Réinitialiser les données locales	Reset local data	Restablecer los datos locales	Ripristina i dati locali	Lokale Daten zurücksetzen
+Conserver mes exemples	Keep my examples	Conservar mis ejemplos	Conserva i miei esempi	Meine Beispiele behalten
+lieu fictif	fictional venue	lugar ficticio	luogo immaginario	fiktiver Ort
+Maire	Mayor	Alcaldía	Sindaco	Bürgermeisteramt
+Première adjointe	First Deputy Mayor	Primera teniente de alcaldía	Vicesindaca	Erste stellvertretende Bürgermeisterin
+Adjoint	Deputy Mayor	Teniente de alcaldía	Assessore	Stellvertretender Bürgermeister
+Adjointe	Deputy Mayor	Teniente de alcaldía	Assessora	Stellvertretende Bürgermeisterin
+Conseillère déléguée	Councillor with delegated responsibilities	Concejala delegada	Consigliera delegata	Beauftragte Gemeinderätin
+Concertation	Consultation	Consulta	Confronto	Beteiligung
+En travaux	Works in progress	En obras	Lavori in corso	Im Bau
+Études	Design studies	Estudios	Studi	Planung
+Horaires et contact	Opening hours and contact	Horarios y contacto	Orari e contatti	Öffnungszeiten und Kontakt
+Bloquer {slot}	Block {slot}	Bloquear {slot}	Blocca {slot}	{slot} sperren
+{label} ·	{label} ·	{label} ·	{label} ·	{label} ·
+{count} personne	{count} person	{count} persona	{count} persona	{count} Person
+Aucune équipe réelle n’a été alertée. Le stockage est bloqué : l’exemple sera perdu au rechargement.	No real team has been alerted. Storage is blocked: this example will be lost when the page reloads.	No se ha avisado a ningún equipo real. El almacenamiento está bloqueado: el ejemplo se perderá al recargar.	Nessuna squadra reale è stata avvisata. La memoria è bloccata: l’esempio andrà perso al ricaricamento.	Es wurde kein echtes Team benachrichtigt. Der Speicher ist gesperrt: Das Beispiel geht beim Neuladen verloren.
+Renseignez ce champ.	Please fill in this field.	Completa este campo.	Compila questo campo.	Bitte füllen Sie dieses Feld aus.
+Choisissez une valeur.	Please choose a value.	Selecciona un valor.	Scegli un valore.	Bitte wählen Sie einen Wert.
+Confirmez ce choix pour continuer.	Confirm this choice to continue.	Confirma esta opción para continuar.	Conferma questa scelta per continuare.	Bestätigen Sie diese Auswahl, um fortzufahren.
+Vérifiez la valeur saisie.	Please check the value entered.	Comprueba el valor introducido.	Controlla il valore inserito.	Bitte überprüfen Sie den eingegebenen Wert.
+mairie hôtel de ville	council town hall	ayuntamiento municipio	comune municipio	Rathaus Stadtverwaltung
+urbanisme logement	planning housing	urbanismo vivienda	urbanistica casa abitazioni	Stadtplanung Wohnen Wohnung
+bibliothèque médiathèque	library media library	biblioteca mediateca	biblioteca mediateca	Bibliothek Mediathek
+école inscription	school enrolment	escuela inscripción	scuola iscrizione	Schule Anmeldung
+sport loisirs	sport leisure	deporte ocio	sport tempo libero	Sport Freizeit
+parc jardin nature	park garden nature	parque jardín naturaleza	parco giardino natura	Park Garten Natur

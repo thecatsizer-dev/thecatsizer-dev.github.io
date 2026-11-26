@@ -1,0 +1,50 @@
+[
+  {
+    "file": "assets/hero-jardin-pexels-7851312.webp",
+    "photographer": "Centre for Ageing Better",
+    "source_page": "https://www.pexels.com/photo/woman-standing-near-green-plants-inside-a-greenhouse-7851312/",
+    "source_download": "https://images.pexels.com/photos/7851312/pexels-photo-7851312.jpeg",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "verified_on": "2026-11-23",
+    "use": "Photo d’illustration ; aucune affiliation ou identité CRESS attribuée",
+    "changes": "Redimensionnement au téléchargement, compression WebP et recadrage responsive",
+    "sha256": "c4a2e2cf0cfcd0b9d0afd98b98768de93eb33a400e8aadb3132baaaadda9c4e3"
+  },
+  {
+    "file": "assets/recolte-pexels-5529592.webp",
+    "photographer": "Zen Chung",
+    "source_page": "https://www.pexels.com/photo/unrecognizable-farmers-harvesting-eggplants-in-garden-on-sunny-day-5529592/",
+    "source_download": "https://images.pexels.com/photos/5529592/pexels-photo-5529592.jpeg",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "verified_on": "2026-11-23",
+    "use": "Photo d’illustration ; aucune affiliation ou identité CRESS attribuée",
+    "changes": "Redimensionnement au téléchargement, compression WebP et recadrage responsive",
+    "sha256": "cc18d896265db941307886f891d6702b2e89ceb75eaf9c6a4a3eb95e5a82172f"
+  },
+  {
+    "file": "assets/rencontre-pexels-2774556.webp",
+    "photographer": "Luis Quintero",
+    "source_page": "https://www.pexels.com/photo/people-sitting-on-gang-chairs-2774556/",
+    "source_download": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "verified_on": "2026-11-23",
+    "use": "Photo d’illustration ; aucune affiliation ou identité CRESS attribuée",
+    "changes": "Redimensionnement au téléchargement, compression WebP et recadrage responsive",
+    "sha256": "e688cb2803f849a4aeeba341d2620c669467fd220e2284593cb135f570576812"
+  },
+  {
+    "file": "assets/mairie-pexels-38282734.webp",
+    "photographer": "Mozzapics .",
+    "source_page": "https://www.pexels.com/photo/charming-french-town-hall-building-exterior-38282734/",
+    "source_download": "https://images.pexels.com/photos/38282734/pexels-photo-38282734.jpeg",
+    "license": "Pexels License",
+    "license_url": "https://www.pexels.com/license/",
+    "verified_on": "2026-11-23",
+    "use": "Photo d’illustration ; aucune affiliation ou identité CRESS attribuée",
+    "changes": "Redimensionnement au téléchargement, compression WebP et recadrage responsive",
+    "sha256": "3ff8b491179a47964e561cc9800bd9ed4cf1161265c115aa83ff2fd7017a8585"
+  }
+]

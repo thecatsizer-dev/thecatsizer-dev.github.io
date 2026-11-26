@@ -1,0 +1,33 @@
+{
+  "sourceCommit": "71831dd",
+  "originalDestinationCommit": "37b3c0cef9fe2c4911d5a8c05b0dfb87cf0fe4b5",
+  "portfolioPages": 55,
+  "mainContentIdentical": true,
+  "legalParagraphsUnchanged": 6,
+  "preservedOriginalFiles": [
+    ".nojekyll",
+    ".well-known/assetlinks.json",
+    "app-ads.txt",
+    "join.html",
+    "join/index.html",
+    "le-paysage-magique-fantastique.jpg",
+    "package.json",
+    "server.js"
+  ],
+  "phoneAndEmailLinks": true,
+  "date": "2026-11-26",
+  "staticAudit": {
+    "pages": 430,
+    "brokenLinks": 0,
+    "untranslatedStrings": 0,
+    "metadataErrors": 0
+  },
+  "layoutChecks": 20,
+  "viewports": [
+    320,
+    1440
+  ],
+  "horizontalOverflows": 0,
+  "analyticsTests": 7,
+  "javascriptErrorsObserved": 0
+}

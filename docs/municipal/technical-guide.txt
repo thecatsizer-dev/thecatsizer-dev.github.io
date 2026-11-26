@@ -1,0 +1,157 @@
+VALMER-SUR-RIVE — TECHNICAL & DEPLOYMENT GUIDE
+TheCatsizerLab / independent fictional municipal concept / 25 November 2026
+
+PURPOSE
+The municipal demonstration is independent from the portfolio. Existing projects,
+videos, release links, CRESS and Learning Studio demos keep their public URLs.
+The portfolio now leads with websites, business interfaces and integrations.
+The portfolio, all ten case studies, the municipal portal and local administration
+are available in FR, EN, ES, IT and DE. English portfolio paths and French municipal
+paths retain their original URLs. See ../i18n/verification.html for current results.
+
+ENTRY POINTS
+Portfolio: /
+French overview: /fr/
+Case study: /projects/municipal-portal.html
+Municipal public website: /demos/municipal-website/
+Local administration: /demos/municipal-website/administration/
+Photographic credits: /demos/municipal-website/credits/
+Verification report: /docs/municipal/verification.html
+
+ARCHITECTURE
+Runtime: ordinary HTML, CSS and browser-native ES modules. No framework runtime,
+bundler, hosted database, paid service, API key or server-side account is needed.
+75 pre-rendered municipal pages per language (375 total) provide actual page content
+and links before JavaScript. The portfolio contributes 55 pages across five languages.
+Interactive functions progressively render the local data snapshot in place.
+
+demos/municipal-website/src/data.js
+  Fictional seed content and page paths. To personalise a municipality, start here.
+src/shared.js
+  URL base, escaping, date formatting, original SVG mark and icon system.
+src/layout.js
+  Civic header, navigation, dialogs, search controls and footer.
+src/render.js
+  Public page compositions. Plain text is escaped before it reaches HTML.
+src/repository.js
+  Clone-based data access and versioned localStorage persistence. The storage key
+  is valmer-municipal-demo-v1. Only that demo's data is reset.
+src/search.js
+  Normalised accent-insensitive index, title-weighted relevance and type filters.
+src/availability.js
+  Date window, deterministic fictional occupancy, manual blocks and booked slots.
+src/flows.js
+  Room/appointment recap and confirmation, citizen report and RFC 5545 ICS export.
+src/app.js
+  UI binding, public filtering, map interactions and cross-tab storage updates.
+src/admin.js
+  On-demand local editorial administration. Drafts stay out of public listings.
+assets/site.css
+  Responsive visual system, forms, map, administration and reduced-motion rules.
+assets/manifest.json
+  Every photograph's original source, author, licence, modifications and variants.
+
+DEMO BOUNDARIES
+- Town, elected people, addresses, budgets, schedules and programmes are fictional.
+- Photos illustrate the fictional place; they document different real places.
+- No real personal information should be entered. No identity field is required.
+- Report attachments are predefined examples; no personal upload is required.
+- Search, filtering, calendar navigation, map controls and ICS downloads are real.
+- Appointments, bookings, reports, contact submission and status updates are local
+  simulations. They do not contact a real service or create an official record.
+- The appointment/booking calendar covers the next 90 days from the browser date.
+  Deterministic occupied slots, manual blocks and recorded bookings all apply.
+- Availability is checked again before confirmation. This is not transactional
+  multi-user inventory; a server transaction would be mandatory in production.
+- The administration has no server authentication and is not shared among users.
+- Local data is editable by its browser owner and must never be treated as trusted
+  identity, payment, permission or official information.
+- Blocked or unavailable browser storage produces an explicit temporary-data notice.
+- Static demo forms are disabled before JavaScript. Runtime handlers also prevent
+  fallback network submission. No simulated form sends a network POST.
+- No analytics, remote font, third-party map tile or advertising cookie is added.
+
+LOCAL PREVIEW AND REBUILD
+Use Node 22+ and a static server at the repository root.
+  npm run build:i18n
+  python -m http.server 8769 --bind 127.0.0.1
+Open http://127.0.0.1:8769/demos/municipal-website/
+Do not open the pages through file://; native ES modules require HTTP.
+Changing source rendering/layout/data requires build:i18n to update the
+pre-rendered HTML. Runtime JS/CSS changes are picked up on reload.
+The full generator compiles the shared TSV catalogs, rebuilds municipal pages,
+and generates the five portfolio versions from tools/i18n/templates. It preserves
+existing project URLs. build:municipal alone rebuilds only French municipal HTML;
+use build:i18n for release builds. Python Beautiful Soup is needed for this build.
+The browser has no dependency on Python or QA tools.
+
+TESTING
+  npm run test:municipal
+Unit tests use Node's built-in runner. No runtime package installation is needed.
+Browser scripts use Python Playwright and Pillow; portfolio link checks also use
+Beautiful Soup. Install these QA-only tools separately if they are unavailable:
+  python -m pip install playwright pillow beautifulsoup4
+  python -m playwright install chromium
+The current scripts expect the local preview at port 8769.
+  python tools/municipal/browser_checks.py
+  python tools/municipal/portfolio_checks.py
+  python tools/municipal/language_check.py
+  python tools/municipal/capture_project.py
+Browser accessibility checks require axe-core in the sibling municipal-tooling
+QA directory. This tooling is not deployed and is not a runtime dependency.
+Reports state exact tested viewports and the limits of automated accessibility.
+Lighthouse uses mobile simulated throttling and a desktop preset. Results vary
+with hardware, network, cache, hosting and the Lighthouse version.
+
+GITHUB PAGES DEPLOYMENT
+This repository already publishes main from its root at thecatsizerlab.github.io.
+No Sites hosting registration, separate service or recurring fee is introduced.
+1. Preserve current work and fetch origin/main before making a release.
+2. Rebuild municipal pages; run targeted tests and local-link checks.
+3. Review the diff, visual captures, photograph credits and browser reports.
+4. Commit the reviewed source, generated HTML and required local assets.
+5. Push normally to main. Do not force push.
+6. Wait for the existing GitHub Pages publication. Check the public homepage,
+   municipal entry, administration and retained older project links.
+7. Measure the published URLs with Lighthouse and record the actual result.
+Rollback uses an ordinary revert commit of the release, preserving repository
+history. LocalStorage content belongs to individual browsers and is not deployed.
+
+PATH TO A REAL MUNICIPAL DELIVERY
+Replace the repository adapter with a CMS/API implementation while keeping the
+page/content shapes. A real implementation also needs role-based authentication,
+server-side authorisation, input validation, rate limits, protected file handling,
+transactional booking, audit logs, backups, retention and privacy policies, secure
+notification delivery, domain setup and an accessibility audit. None is represented
+as delivered by this local demonstration.
+
+MAINTENANCE
+Keep schema versions explicit when changing persisted shapes. A version migration
+or a documented reset must handle old data. Keep user-supplied text escaped; never
+insert editorial form input as raw HTML. Keep sensitive keys and credentials out
+of client source, localStorage and the repository.
+
+LICENCES
+The original municipal identity, fictional plan and interface code were created
+for this concept. Photos retain each source's CC BY/CC BY-SA terms; adaptations
+retain attribution, licence links and share-alike terms where applicable. Do not
+describe the photography as original client reportage. Inter and Newsreader are
+locally hosted under SIL OFL. The original source details are in manifest.json.
+
+INTERNATIONALISATION
+Canonical indexed messages: tools/i18n/municipal-messages.json and portfolio-messages.json.
+Do not reorder these arrays: TSV rows use their stable indexes. Edit translations
+in municipal-*.tsv or portfolio-*.tsv; compile_catalogs.py creates five JSON catalogs.
+Runtime: assets/i18n/runtime.js; static generator: tools/i18n/build.py.
+Portfolio: / (EN), /fr/, /es/, /it/, /de/; case studies follow the same prefix.
+Municipal: /demos/municipal-website/ (FR), then en/, es/, it/, de/.
+Municipal business modules are shared by all language versions. Internal enum
+values and canonical seed fields remain stable; visible labels are translated.
+Freshly authored free text retains its author language. Known seed fields are
+canonicalised on save so an unchanged translated item does not become mixed-language.
+Language choice is maintained in URLs and recorded locally; no forced redirect is used.
+
+Current QA: tools/i18n/qa.py, portfolio_qa.py, layout_sweep.py, static_audit.py.
+Real screenshots: tools/i18n/capture.py (five languages, eight views each).
+The historical scripts under tools/municipal document the original release.
+Current five-language evidence and production Lighthouse: ../i18n/verification.html.

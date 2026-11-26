@@ -1,0 +1,464 @@
+{
+  "panorama": {
+    "title": "File:L Isle-sur-la-Sorgue 20150829 01.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/L_Isle-sur-la-Sorgue_20150829_01.jpg/1920px-L_Isle-sur-la-Sorgue_20150829_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/L_Isle-sur-la-Sorgue_20150829_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:L_Isle-sur-la-Sorgue_20150829_01.jpg",
+    "width": 5184,
+    "height": 3456,
+    "license": "CC BY-SA 3.0",
+    "file": "panorama.webp",
+    "author": "Georges Seguin (Okki)",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "credit": "Own work",
+    "description": "L'Isle-sur-la-Sorgue (Vaucluse, France)",
+    "bytes": 353724,
+    "display_width": 1600,
+    "display_height": 1067,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "panorama-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 45918
+      },
+      "960": {
+        "file": "panorama-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 103454
+      }
+    },
+    "description_fr": "L’Isle-sur-la-Sorgue, dans le Vaucluse : rivière et maisons du centre."
+  },
+  "market": {
+    "title": "File:Aix-en-Provence, Marché provençal.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aix-en-Provence%2C_March%C3%A9_proven%C3%A7al.jpg/1920px-Aix-en-Provence%2C_March%C3%A9_proven%C3%A7al.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Aix-en-Provence%2C_March%C3%A9_proven%C3%A7al.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Aix-en-Provence,_March%C3%A9_proven%C3%A7al.jpg",
+    "width": 7500,
+    "height": 5269,
+    "license": "CC BY-SA 4.0",
+    "file": "market.webp",
+    "author": "Rolf Kranz",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "description": "Wochenmarkt in Aix-en-Provence",
+    "bytes": 629648,
+    "display_width": 1600,
+    "display_height": 1124,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "market-640.webp",
+        "width": 640,
+        "height": 450,
+        "bytes": 96796
+      },
+      "960": {
+        "file": "market-960.webp",
+        "width": 960,
+        "height": 674,
+        "bytes": 203648
+      }
+    },
+    "description_fr": "Marché à Aix-en-Provence."
+  },
+  "townhall": {
+    "title": "File:Hôtel de ville des Baux-de-Provence cf01.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/H%C3%B4tel_de_ville_des_Baux-de-Provence_cf01.jpg/1920px-H%C3%B4tel_de_ville_des_Baux-de-Provence_cf01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/H%C3%B4tel_de_ville_des_Baux-de-Provence_cf01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_ville_des_Baux-de-Provence_cf01.jpg",
+    "width": 7289,
+    "height": 4868,
+    "license": "CC BY-SA 4.0",
+    "file": "townhall.webp",
+    "author": "Christian Ferrer",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "description": "Hôtel de ville des Baux-de-Provence (Baux-de-Provence' town hall). Les Baux-de-Provence, Bouches-du-Rhône, France",
+    "bytes": 575966,
+    "display_width": 1600,
+    "display_height": 1068,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "townhall-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 65366
+      },
+      "960": {
+        "file": "townhall-960.webp",
+        "width": 960,
+        "height": 641,
+        "bytes": 155102
+      }
+    },
+    "description_fr": "Hôtel de ville des Baux-de-Provence, dans les Bouches-du-Rhône."
+  },
+  "oldtown": {
+    "title": "File:Lourmarin - village 2.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lourmarin_-_village_2.jpg/1920px-Lourmarin_-_village_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lourmarin_-_village_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Lourmarin_-_village_2.jpg",
+    "width": 4000,
+    "height": 3000,
+    "license": "CC BY-SA 3.0",
+    "file": "oldtown.webp",
+    "author": "Véronique PAGNIER",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "credit": "Own work",
+    "description": "Village de Lourmarin (84)",
+    "bytes": 284888,
+    "display_width": 1600,
+    "display_height": 1200,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "oldtown-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 36420
+      },
+      "960": {
+        "file": "oldtown-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 83114
+      }
+    },
+    "description_fr": "Village de Lourmarin, dans le Vaucluse."
+  },
+  "school": {
+    "title": "File:Cour ecole de Provence.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Cour_ecole_de_Provence.jpg/1920px-Cour_ecole_de_Provence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cour_ecole_de_Provence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Cour_ecole_de_Provence.jpg",
+    "width": 4032,
+    "height": 3024,
+    "license": "CC BY-SA 4.0",
+    "file": "school.webp",
+    "author": "Louis Barret",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "description": "Photographie de la cour de l’école de Provence avec une vue sur le bâtiment du collège au premier plan et celui du lycée en arrière plan",
+    "bytes": 411504,
+    "display_width": 1600,
+    "display_height": 1200,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "school-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 50860
+      },
+      "960": {
+        "file": "school-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 116838
+      }
+    },
+    "description_fr": "Cour de l’école de Provence, avec le collège au premier plan et le lycée à l’arrière-plan."
+  },
+  "culture": {
+    "title": "File:Concert de Lise Berthaud, Raphaël Pidoux, Daishin Kashimoto, Deborah Nemtanu au Festival International de Musique de Chambre de Provence (Musique à L'Empéri).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Concert_de_Lise_Berthaud%2C_Rapha%C3%ABl_Pidoux%2C_Daishin_Kashimoto%2C_Deborah_Nemtanu_au_Festival_International_de_Musique_de_Chambre_de_Provence_%28Musique_%C3%A0_L%27Emp%C3%A9ri%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Concert_de_Lise_Berthaud%2C_Rapha%C3%ABl_Pidoux%2C_Daishin_Kashimoto%2C_Deborah_Nemtanu_au_Festival_International_de_Musique_de_Chambre_de_Provence_%28Musique_%C3%A0_L%27Emp%C3%A9ri%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Concert_de_Lise_Berthaud,_Rapha%C3%ABl_Pidoux,_Daishin_Kashimoto,_Deborah_Nemtanu_au_Festival_International_de_Musique_de_Chambre_de_Provence_(Musique_%C3%A0_L%27Emp%C3%A9ri).jpg",
+    "width": 3888,
+    "height": 2592,
+    "license": "CC BY-SA 2.0",
+    "file": "culture.webp",
+    "author": "Flickr user EmperiH058",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "credit": "https://www.flickr.com/photos/emperi/3904351076",
+    "description": "Concert de Lise Berthaud, Raphaël Pidoux, Daishin Kashimoto, Deborah Nemtanu au Festival International de Musique de Chambre de Provence (Musique à L'Empéri)",
+    "bytes": 270220,
+    "display_width": 1600,
+    "display_height": 1067,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "culture-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 43256
+      },
+      "960": {
+        "file": "culture-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 83718
+      }
+    },
+    "description_fr": "Concert de musique de chambre au festival Musique à l’Empéri, en Provence."
+  },
+  "heritage": {
+    "title": "File:Château de Lourmarin vu du village.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ch%C3%A2teau_de_Lourmarin_vu_du_village.jpg/1920px-Ch%C3%A2teau_de_Lourmarin_vu_du_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ch%C3%A2teau_de_Lourmarin_vu_du_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Lourmarin_vu_du_village.jpg",
+    "width": 4032,
+    "height": 2268,
+    "license": "CC BY-SA 4.0",
+    "file": "heritage.webp",
+    "author": "Fanfwah",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "description": "Château de Lourmarin.",
+    "bytes": 280466,
+    "display_width": 1600,
+    "display_height": 900,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "heritage-640.webp",
+        "width": 640,
+        "height": 360,
+        "bytes": 46300
+      },
+      "960": {
+        "file": "heritage-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 99374
+      }
+    },
+    "description_fr": "Château de Lourmarin."
+  },
+  "nature": {
+    "title": "File:Luberon Ocre.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Luberon_Ocre.jpg/1920px-Luberon_Ocre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Luberon_Ocre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Luberon_Ocre.jpg",
+    "width": 4000,
+    "height": 2162,
+    "license": "CC BY-SA 4.0",
+    "file": "nature.webp",
+    "author": "KevinGallmann1982",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "description": "Luberon ocre",
+    "bytes": 516156,
+    "display_width": 1600,
+    "display_height": 865,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "nature-640.webp",
+        "width": 640,
+        "height": 346,
+        "bytes": 63794
+      },
+      "960": {
+        "file": "nature-960.webp",
+        "width": 960,
+        "height": 519,
+        "bytes": 147734
+      }
+    },
+    "description_fr": "Paysage d’ocre dans le Luberon."
+  },
+  "sport": {
+    "title": "File:Court de Tennis à Bram.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Court_de_Tennis_%C3%A0_Bram.jpg/1920px-Court_de_Tennis_%C3%A0_Bram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Court_de_Tennis_%C3%A0_Bram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Court_de_Tennis_%C3%A0_Bram.jpg",
+    "width": 4575,
+    "height": 2856,
+    "license": "CC BY-SA 4.0",
+    "file": "sport.webp",
+    "author": "APB11",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "description": "L'un des courts du Tennis Club du Lauragais.",
+    "bytes": 442380,
+    "display_width": 1600,
+    "display_height": 999,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "sport-640.webp",
+        "width": 640,
+        "height": 400,
+        "bytes": 46812
+      },
+      "960": {
+        "file": "sport-960.webp",
+        "width": 960,
+        "height": 599,
+        "bytes": 117858
+      }
+    },
+    "description_fr": "Un court du Tennis Club du Lauragais."
+  },
+  "shops": {
+    "title": "File:Lourmarin - cafes restaurants (5829875359).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Lourmarin_-_cafes_restaurants_%285829875359%29.jpg/1920px-Lourmarin_-_cafes_restaurants_%285829875359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Lourmarin_-_cafes_restaurants_%285829875359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Lourmarin_-_cafes_restaurants_(5829875359).jpg",
+    "width": 3648,
+    "height": 2736,
+    "license": "CC BY 2.0",
+    "file": "shops.webp",
+    "author": "Elliott Brown from Birmingham, United Kingdom",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "credit": "Lourmarin - cafes /restaurants",
+    "description": "This is the village of Lourmarin in The Luberon (one of France's National Parks).\nThe village of Lourmarin is set in magnificent surroundings and radiates peace and serenity. It has spread on the lush plain around a small promontory at the top of which are a church and belfry. Everything works towards its beauty. The village is best seen from the road to Lauris: the castle emerging from dense vegetation, the Protestant temple, and finally the village itself, rising up on terraces to meet the church tower, with the added grace of Mediterranean vegetation.\nPhotos from a walk around the French village of Lourmarin.\nBack to the main road, back to the cafes\n\nWe had a drink down here. Nice place to sit.",
+    "bytes": 234834,
+    "display_width": 1600,
+    "display_height": 1200,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "shops-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 49078
+      },
+      "960": {
+        "file": "shops-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 94202
+      }
+    },
+    "description_fr": "Cafés et commerces dans le village de Lourmarin."
+  },
+  "park": {
+    "title": "File:Aix-en-provence Le parc Jourdan Allée centrale.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aix-en-provence_Le_parc_Jourdan_All%C3%A9e_centrale.jpg/1920px-Aix-en-provence_Le_parc_Jourdan_All%C3%A9e_centrale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Aix-en-provence_Le_parc_Jourdan_All%C3%A9e_centrale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Aix-en-provence_Le_parc_Jourdan_All%C3%A9e_centrale.jpg",
+    "width": 6000,
+    "height": 4000,
+    "license": "CC BY-SA 4.0",
+    "file": "park.webp",
+    "author": "René Hourdry",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "description": "Allée centrale du Parc Jourdan",
+    "bytes": 511040,
+    "display_width": 1600,
+    "display_height": 1067,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "park-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 70988
+      },
+      "960": {
+        "file": "park-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 157800
+      }
+    },
+    "description_fr": "Allée centrale du parc Jourdan."
+  },
+  "oldtown-street": {
+    "title": "File:Chasing an orange car in Roussillon, Provence, France (6053007400).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Chasing_an_orange_car_in_Roussillon%2C_Provence%2C_France_%286053007400%29.jpg/1920px-Chasing_an_orange_car_in_Roussillon%2C_Provence%2C_France_%286053007400%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Chasing_an_orange_car_in_Roussillon%2C_Provence%2C_France_%286053007400%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Chasing_an_orange_car_in_Roussillon,_Provence,_France_(6053007400).jpg",
+    "width": 4288,
+    "height": 2848,
+    "license": "CC BY-SA 2.0",
+    "file": "oldtown-street.webp",
+    "author": "Michal Osmenda from Brussels, Belgium",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "credit": "Chasing an orange car in Roussillon, Provence, France",
+    "description": "Chasing an orange car in Roussillon, Provence, France",
+    "bytes": 212020,
+    "display_width": 1600,
+    "display_height": 1063,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "oldtown-street-640.webp",
+        "width": 640,
+        "height": 425,
+        "bytes": 39150
+      },
+      "960": {
+        "file": "oldtown-street-960.webp",
+        "width": 960,
+        "height": 638,
+        "bytes": 74774
+      }
+    },
+    "description_fr": "Une rue de Roussillon, en Provence."
+  },
+  "library": {
+    "title": "File:Intérieur médiathèque Capucins Brest 2017 - 01.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Int%C3%A9rieur_m%C3%A9diath%C3%A8que_Capucins_Brest_2017_-_01.jpg/1920px-Int%C3%A9rieur_m%C3%A9diath%C3%A8que_Capucins_Brest_2017_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Int%C3%A9rieur_m%C3%A9diath%C3%A8que_Capucins_Brest_2017_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_m%C3%A9diath%C3%A8que_Capucins_Brest_2017_-_01.jpg",
+    "width": 5472,
+    "height": 3648,
+    "license": "CC BY-SA 4.0",
+    "file": "library.webp",
+    "author": "Jérémy Kergourlay",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "description": "Intérieur de la médiathèque François-Mitterrand - Les Capucins à son inauguration en février 2017.",
+    "bytes": 410664,
+    "display_width": 1600,
+    "display_height": 1067,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "library-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 67684
+      },
+      "960": {
+        "file": "library-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 135042
+      }
+    },
+    "description_fr": "Médiathèque François-Mitterrand – Les Capucins, à Brest, lors de son inauguration en février 2017."
+  },
+  "works": {
+    "title": "File:Travaux Tramway Avignon secteur Rocade Althen.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Travaux_Tramway_Avignon_secteur_Rocade_Althen.jpg/1920px-Travaux_Tramway_Avignon_secteur_Rocade_Althen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Travaux_Tramway_Avignon_secteur_Rocade_Althen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Travaux_Tramway_Avignon_secteur_Rocade_Althen.jpg",
+    "width": 2448,
+    "height": 3264,
+    "license": "CC BY-SA 4.0",
+    "file": "works.webp",
+    "author": "MattMoissa",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "credit": "Own work",
+    "description": "Works of the Avignon's tramway, Rocade's sector, close to Jean Althen's street",
+    "bytes": 200576,
+    "display_width": 1200,
+    "display_height": 1600,
+    "changes": "Redimensionnement, conversion WebP, compression. Aucun montage ni ajout d’éléments.",
+    "variants": {
+      "640": {
+        "file": "works-640.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 54894
+      },
+      "960": {
+        "file": "works-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 105000
+      }
+    },
+    "description_fr": "Travaux du tramway d’Avignon, dans le secteur de la Rocade, près de la rue Jean-Althen."
+  }
+}

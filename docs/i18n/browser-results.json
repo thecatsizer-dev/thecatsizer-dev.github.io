@@ -1,0 +1,665 @@
+{
+  "languages": {
+    "fr": [
+      "Global search, suggestions and content-type filter",
+      "Localized directory search and category values",
+      "Agenda month/category navigation and localized ICS export",
+      "Map details, zoom, pan and reset",
+      "Room booking, recap, localized confirmation and duplicate protection",
+      "Appointment and localized confirmation",
+      "Citizen report, location, sample attachment and confirmation",
+      "Localized native validation and contact simulation",
+      "CMS preview escaping, draft isolation and cross-tab publication",
+      "Translated request filters, status and citizen notifications",
+      "Translated editor preserves canonical seed on save",
+      "Four responsive widths, keyboard menu and language switch",
+      "Demo reset preserves shared business behaviour"
+    ],
+    "en": [
+      "Global search, suggestions and content-type filter",
+      "Localized directory search and category values",
+      "Agenda month/category navigation and localized ICS export",
+      "Map details, zoom, pan and reset",
+      "Room booking, recap, localized confirmation and duplicate protection",
+      "Appointment and localized confirmation",
+      "Citizen report, location, sample attachment and confirmation",
+      "Localized native validation and contact simulation",
+      "CMS preview escaping, draft isolation and cross-tab publication",
+      "Translated request filters, status and citizen notifications",
+      "Translated editor preserves canonical seed on save",
+      "Four responsive widths, keyboard menu and language switch",
+      "Demo reset preserves shared business behaviour"
+    ],
+    "es": [
+      "Global search, suggestions and content-type filter",
+      "Localized directory search and category values",
+      "Agenda month/category navigation and localized ICS export",
+      "Map details, zoom, pan and reset",
+      "Room booking, recap, localized confirmation and duplicate protection",
+      "Appointment and localized confirmation",
+      "Citizen report, location, sample attachment and confirmation",
+      "Localized native validation and contact simulation",
+      "CMS preview escaping, draft isolation and cross-tab publication",
+      "Translated request filters, status and citizen notifications",
+      "Translated editor preserves canonical seed on save",
+      "Four responsive widths, keyboard menu and language switch",
+      "Demo reset preserves shared business behaviour"
+    ],
+    "it": [
+      "Global search, suggestions and content-type filter",
+      "Localized directory search and category values",
+      "Agenda month/category navigation and localized ICS export",
+      "Map details, zoom, pan and reset",
+      "Room booking, recap, localized confirmation and duplicate protection",
+      "Appointment and localized confirmation",
+      "Citizen report, location, sample attachment and confirmation",
+      "Localized native validation and contact simulation",
+      "CMS preview escaping, draft isolation and cross-tab publication",
+      "Translated request filters, status and citizen notifications",
+      "Translated editor preserves canonical seed on save",
+      "Four responsive widths, keyboard menu and language switch",
+      "Demo reset preserves shared business behaviour"
+    ],
+    "de": [
+      "Global search, suggestions and content-type filter",
+      "Localized directory search and category values",
+      "Agenda month/category navigation and localized ICS export",
+      "Map details, zoom, pan and reset",
+      "Room booking, recap, localized confirmation and duplicate protection",
+      "Appointment and localized confirmation",
+      "Citizen report, location, sample attachment and confirmation",
+      "Localized native validation and contact simulation",
+      "CMS preview escaping, draft isolation and cross-tab publication",
+      "Translated request filters, status and citizen notifications",
+      "Translated editor preserves canonical seed on save",
+      "Four responsive widths, keyboard menu and language switch",
+      "Demo reset preserves shared business behaviour"
+    ]
+  },
+  "errors": [],
+  "network_submissions": [],
+  "axe": [
+    {
+      "language": "fr",
+      "page": "home-1440",
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "page": "admin-1440",
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "page": "home-390",
+      "violations": []
+    },
+    {
+      "language": "fr",
+      "page": "admin-390",
+      "violations": []
+    },
+    {
+      "language": "en",
+      "page": "home-1440",
+      "violations": []
+    },
+    {
+      "language": "en",
+      "page": "admin-1440",
+      "violations": []
+    },
+    {
+      "language": "en",
+      "page": "home-390",
+      "violations": []
+    },
+    {
+      "language": "en",
+      "page": "admin-390",
+      "violations": []
+    },
+    {
+      "language": "es",
+      "page": "home-1440",
+      "violations": []
+    },
+    {
+      "language": "es",
+      "page": "admin-1440",
+      "violations": []
+    },
+    {
+      "language": "es",
+      "page": "home-390",
+      "violations": []
+    },
+    {
+      "language": "es",
+      "page": "admin-390",
+      "violations": []
+    },
+    {
+      "language": "it",
+      "page": "home-1440",
+      "violations": []
+    },
+    {
+      "language": "it",
+      "page": "admin-1440",
+      "violations": []
+    },
+    {
+      "language": "it",
+      "page": "home-390",
+      "violations": []
+    },
+    {
+      "language": "it",
+      "page": "admin-390",
+      "violations": []
+    },
+    {
+      "language": "de",
+      "page": "home-1440",
+      "violations": []
+    },
+    {
+      "language": "de",
+      "page": "admin-1440",
+      "violations": []
+    },
+    {
+      "language": "de",
+      "page": "home-390",
+      "violations": []
+    },
+    {
+      "language": "de",
+      "page": "admin-390",
+      "violations": []
+    }
+  ],
+  "layouts": [
+    {
+      "language": "fr",
+      "page": "home",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "booking",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "contact",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "admin",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "home",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "booking",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "contact",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "admin",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "home",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "booking",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "contact",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "admin",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "home",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "booking",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "contact",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "fr",
+      "page": "admin",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "home",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "booking",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "contact",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "admin",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "home",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "booking",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "contact",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "admin",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "home",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "booking",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "contact",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "admin",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "home",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "booking",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "contact",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "page": "admin",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "home",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "booking",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "contact",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "admin",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "home",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "booking",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "contact",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "admin",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "home",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "booking",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "contact",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "admin",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "home",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "booking",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "contact",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "es",
+      "page": "admin",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "home",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "booking",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "contact",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "admin",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "home",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "booking",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "contact",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "admin",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "home",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "booking",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "contact",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "admin",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "home",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "booking",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "contact",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "it",
+      "page": "admin",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "home",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "booking",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "contact",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "admin",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "home",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "booking",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "contact",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "admin",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "home",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "booking",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "contact",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "admin",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "home",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "booking",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "contact",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "de",
+      "page": "admin",
+      "width": 320,
+      "overflow": false
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Municipal mobile",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/",
+    "fetchTime": "2026-11-24T22:53:43.301Z",
+    "lighthouseVersion": "13.6.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.0.0 Safari/537.36",
+    "emulatedFormFactor": "mobile",
+    "throttlingMethod": "simulate",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1115.5990000000002,
+        "unit": "millisecond",
+        "display": "1.1 s"
+      },
+      "largest-contentful-paint": {
+        "value": 2258.599,
+        "unit": "millisecond",
+        "display": "2.3 s"
+      },
+      "total-blocking-time": {
+        "value": 37,
+        "unit": "millisecond",
+        "display": "40 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless",
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 2028.9900643491283,
+        "unit": "millisecond",
+        "display": "2.0 s"
+      }
+    }
+  },
+  {
+    "name": "Municipal desktop",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/",
+    "fetchTime": "2026-11-24T22:53:54.167Z",
+    "lighthouseVersion": "13.6.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.0.0 Safari/537.36",
+    "emulatedFormFactor": "desktop",
+    "throttlingMethod": "simulate",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 330.619,
+        "unit": "millisecond",
+        "display": "0.3 s"
+      },
+      "largest-contentful-paint": {
+        "value": 529.619,
+        "unit": "millisecond",
+        "display": "0.5 s"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond",
+        "display": "0 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.028248402945845547,
+        "unit": "unitless",
+        "display": "0.028"
+      },
+      "speed-index": {
+        "value": 607.0221875474075,
+        "unit": "millisecond",
+        "display": "0.6 s"
+      }
+    }
+  },
+  {
+    "name": "Portfolio mobile",
+    "url": "https://thecatsizerlab.github.io/",
+    "fetchTime": "2026-11-24T22:54:06.237Z",
+    "lighthouseVersion": "13.6.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/159.0.0.0 Safari/537.36",
+    "emulatedFormFactor": "mobile",
+    "throttlingMethod": "simulate",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1070.731,
+        "unit": "millisecond",
+        "display": "1.1 s"
+      },
+      "largest-contentful-paint": {
+        "value": 1796.731,
+        "unit": "millisecond",
+        "display": "1.8 s"
+      },
+      "total-blocking-time": {
+        "value": 64,
+        "unit": "millisecond",
+        "display": "60 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless",
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 1615.0563287821717,
+        "unit": "millisecond",
+        "display": "1.6 s"
+      }
+    }
+  }
+]

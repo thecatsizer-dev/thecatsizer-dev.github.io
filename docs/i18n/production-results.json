@@ -1,0 +1,146 @@
+{
+  "origin": "https://thecatsizerlab.github.io",
+  "pages": [
+    {
+      "language": "fr",
+      "kind": "portfolio",
+      "url": "https://thecatsizerlab.github.io/fr/",
+      "status": 200,
+      "h1": "Sites web,\nlogiciels métiers\net applications mobiles."
+    },
+    {
+      "language": "fr",
+      "kind": "case",
+      "url": "https://thecatsizerlab.github.io/fr/projects/municipal-portal.html",
+      "status": 200,
+      "h1": "Valmer-sur-Rive"
+    },
+    {
+      "language": "fr",
+      "kind": "valmer",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/",
+      "status": 200,
+      "h1": "Une ville\nà vivre."
+    },
+    {
+      "language": "fr",
+      "kind": "admin",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/administration/",
+      "status": 200,
+      "h1": "Vue d’ensemble"
+    },
+    {
+      "language": "en",
+      "kind": "portfolio",
+      "url": "https://thecatsizerlab.github.io/",
+      "status": 200,
+      "h1": "Websites,\nbusiness software\n& mobile apps."
+    },
+    {
+      "language": "en",
+      "kind": "case",
+      "url": "https://thecatsizerlab.github.io/projects/municipal-portal.html",
+      "status": 200,
+      "h1": "Valmer-sur-Rive"
+    },
+    {
+      "language": "en",
+      "kind": "valmer",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/en/",
+      "status": 200,
+      "h1": "A town\nto call home."
+    },
+    {
+      "language": "en",
+      "kind": "admin",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/en/administration/",
+      "status": 200,
+      "h1": "Overview"
+    },
+    {
+      "language": "es",
+      "kind": "portfolio",
+      "url": "https://thecatsizerlab.github.io/es/",
+      "status": 200,
+      "h1": "Sitios web,\nsoftware empresarial\ny aplicaciones móviles."
+    },
+    {
+      "language": "es",
+      "kind": "case",
+      "url": "https://thecatsizerlab.github.io/es/projects/municipal-portal.html",
+      "status": 200,
+      "h1": "Valmer-sur-Rive"
+    },
+    {
+      "language": "es",
+      "kind": "valmer",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/es/",
+      "status": 200,
+      "h1": "Una ciudad\npara vivir."
+    },
+    {
+      "language": "es",
+      "kind": "admin",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/es/administration/",
+      "status": 200,
+      "h1": "Resumen"
+    },
+    {
+      "language": "it",
+      "kind": "portfolio",
+      "url": "https://thecatsizerlab.github.io/it/",
+      "status": 200,
+      "h1": "Siti web,\nsoftware gestionali\ne app mobili."
+    },
+    {
+      "language": "it",
+      "kind": "case",
+      "url": "https://thecatsizerlab.github.io/it/projects/municipal-portal.html",
+      "status": 200,
+      "h1": "Valmer-sur-Rive"
+    },
+    {
+      "language": "it",
+      "kind": "valmer",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/it/",
+      "status": 200,
+      "h1": "Una città\nda vivere."
+    },
+    {
+      "language": "it",
+      "kind": "admin",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/it/administration/",
+      "status": 200,
+      "h1": "Panoramica"
+    },
+    {
+      "language": "de",
+      "kind": "portfolio",
+      "url": "https://thecatsizerlab.github.io/de/",
+      "status": 200,
+      "h1": "Websites,\nUnternehmens­software\nund mobile Apps."
+    },
+    {
+      "language": "de",
+      "kind": "case",
+      "url": "https://thecatsizerlab.github.io/de/projects/municipal-portal.html",
+      "status": 200,
+      "h1": "Valmer-sur-Rive"
+    },
+    {
+      "language": "de",
+      "kind": "valmer",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/de/",
+      "status": 200,
+      "h1": "Eine Stadt\nzum Leben."
+    },
+    {
+      "language": "de",
+      "kind": "admin",
+      "url": "https://thecatsizerlab.github.io/demos/municipal-website/de/administration/",
+      "status": 200,
+      "h1": "Übersicht"
+    }
+  ],
+  "errors": []
+}

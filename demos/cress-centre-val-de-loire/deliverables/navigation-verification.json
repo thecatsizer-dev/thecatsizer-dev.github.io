@@ -1,0 +1,49 @@
+{
+  "scope": "Navigation locale et aperçus du concept",
+  "verified_on": "2026-11-23",
+  "routes_checked": 111,
+  "territory_previews": 79,
+  "no_unknown_page_fallback": true,
+  "no_raw_wordpress_content": true,
+  "sharing": "Copies the actual local concept link; no social service connected",
+  "simulated_forms": [
+    "Contact",
+    "Newsletter",
+    "Adhésion : demande d’information"
+  ],
+  "history": "Direct route, reload, back and forward verified",
+  "responsive_previews": "7 page types checked at 320,375,390,768,1440px",
+  "automated_accessibility": {
+    "service": {
+      "violations": [],
+      "passes": 26
+    },
+    "territoire": {
+      "violations": [],
+      "passes": 26
+    },
+    "publication": {
+      "violations": [],
+      "passes": 24
+    },
+    "article": {
+      "violations": [],
+      "passes": 24
+    },
+    "contact": {
+      "violations": [],
+      "passes": 27
+    },
+    "newsletter": {
+      "violations": [],
+      "passes": 25
+    },
+    "adhesion": {
+      "violations": [],
+      "passes": 25
+    }
+  },
+  "unexpected_external_requests": [],
+  "javascript_errors": [],
+  "home_sections_preserved": 8
+}

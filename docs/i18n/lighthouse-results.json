@@ -1,0 +1,1102 @@
+[
+  {
+    "site": "Portfolio",
+    "language": "fr",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/fr/",
+    "fetchTime": "2026-11-25T08:23:19.508Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1096.5085,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1824.5085,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 195,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1906.4969678077437,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "fr",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/fr/",
+    "fetchTime": "2026-11-25T08:23:32.993Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 285.72,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 522.72,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.0069092899280513275,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 427.40464450732566,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "fr",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/",
+    "fetchTime": "2026-11-25T08:23:46.066Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1064.5045,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 2542.5045,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 163,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1973.2307497596548,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "fr",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/",
+    "fetchTime": "2026-11-25T08:23:59.892Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 315.899,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 570.899,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.027623414053987022,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 627.356440192842,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "en",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/",
+    "fetchTime": "2026-11-25T08:24:13.044Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 92,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 998.611,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 2942.611,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 176.9999999999999,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 2136.5400876750014,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "en",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/",
+    "fetchTime": "2026-11-25T08:24:26.582Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 264.297,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 425.297,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.003041186227889296,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 530.4184229644751,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "en",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/en/",
+    "fetchTime": "2026-11-25T08:33:31.443Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1073.886,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1073.886,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 163,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.09246337451962044,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1847.6408499468562,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "en",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/en/",
+    "fetchTime": "2026-11-25T08:30:48.529Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 375.159,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 571.159,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.028644898440062523,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 794.5894415983842,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "es",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/es/",
+    "fetchTime": "2026-11-25T08:25:09.720Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 97,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 931.6485,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 2428.6485000000002,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 117,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1853.7010643283777,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "es",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/es/",
+    "fetchTime": "2026-11-25T08:25:23.257Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 385.60900000000004,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 707.609,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.009678735163402907,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 897.3001098311097,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "es",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/es/",
+    "fetchTime": "2026-11-25T08:31:02.126Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 986.8965000000001,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 986.8965000000001,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 32,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1452.7921303671922,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "es",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/es/",
+    "fetchTime": "2026-11-25T08:31:15.327Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 310.091,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 510.091,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.027670506278310372,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 523.1857448175731,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "it",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/it/",
+    "fetchTime": "2026-11-25T08:31:28.783Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1056.3915,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 2239.3914999999997,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 17,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1492.220141561387,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "it",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/it/",
+    "fetchTime": "2026-11-25T08:31:41.879Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 297.991,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 578.991,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.003886298183032624,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 377.4576294730437,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "it",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/it/",
+    "fetchTime": "2026-11-25T08:31:54.896Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 977.5745,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 2318.5744999999997,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 195,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1954.334106441454,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "it",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/it/",
+    "fetchTime": "2026-11-25T08:32:08.640Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 366.66249999999997,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 566.6624999999999,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.02757417947861611,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 692.2318033299858,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "de",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/de/",
+    "fetchTime": "2026-11-25T08:32:22.326Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1086.1185,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1937.1185,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 39,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 1513.7866732388602,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Portfolio",
+    "language": "de",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/de/",
+    "fetchTime": "2026-11-25T08:32:36.186Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 396.905,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 552.905,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.001669713934858501,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 645.8078612590874,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "de",
+    "device": "mobile",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/de/",
+    "fetchTime": "2026-11-25T08:32:50.153Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 91,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 1192.8755,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 1192.8755,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 257,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.1163300995528022,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 2143.0572161726604,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  },
+  {
+    "site": "Valmer",
+    "language": "de",
+    "device": "desktop",
+    "url": "https://thecatsizerlab.github.io/demos/municipal-website/de/",
+    "fetchTime": "2026-11-25T08:33:04.285Z",
+    "lighthouseVersion": "13.6.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 320.97249999999997,
+        "unit": "millisecond"
+      },
+      "largest-contentful-paint": {
+        "value": 515.9725,
+        "unit": "millisecond"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "unit": "millisecond"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.027808130107506664,
+        "unit": "unitless"
+      },
+      "speed-index": {
+        "value": 565.1181620901721,
+        "unit": "millisecond"
+      }
+    },
+    "config": {
+      "formFactor": "desktop",
+      "throttlingMethod": "simulate",
+      "screenEmulation": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      }
+    }
+  }
+]

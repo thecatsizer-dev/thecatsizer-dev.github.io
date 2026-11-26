@@ -1,0 +1,377 @@
+[
+  {
+    "path": "/demos/municipal-website/de/",
+    "route": "home",
+    "title": "Valmer-sur-Rive, une ville à vivre"
+  },
+  {
+    "path": "/demos/municipal-website/de/mairie/",
+    "route": "page:mairie",
+    "title": "Ma mairie"
+  },
+  {
+    "path": "/demos/municipal-website/de/mairie/equipe/",
+    "route": "page:equipe",
+    "title": "L’équipe municipale"
+  },
+  {
+    "path": "/demos/municipal-website/de/mairie/conseil/",
+    "route": "page:conseil",
+    "title": "Le conseil municipal"
+  },
+  {
+    "path": "/demos/municipal-website/de/mairie/deliberations/",
+    "route": "page:deliberations",
+    "title": "Délibérations et comptes rendus"
+  },
+  {
+    "path": "/demos/municipal-website/de/mairie/budget/",
+    "route": "page:budget",
+    "title": "Le budget municipal"
+  },
+  {
+    "path": "/demos/municipal-website/de/mairie/projets/",
+    "route": "page:projets",
+    "title": "Les projets qui nous rapprochent"
+  },
+  {
+    "path": "/demos/municipal-website/de/mairie/services/",
+    "route": "page:services",
+    "title": "Services et horaires"
+  },
+  {
+    "path": "/demos/municipal-website/de/demarches/",
+    "route": "page:demarches",
+    "title": "Mes démarches"
+  },
+  {
+    "path": "/demos/municipal-website/de/demarches/etat-civil/",
+    "route": "page:etat-civil",
+    "title": "État civil et citoyenneté"
+  },
+  {
+    "path": "/demos/municipal-website/de/demarches/urbanisme/",
+    "route": "page:urbanisme",
+    "title": "Urbanisme et habitat"
+  },
+  {
+    "path": "/demos/municipal-website/de/demarches/inscriptions/",
+    "route": "page:inscriptions",
+    "title": "Inscriptions scolaires"
+  },
+  {
+    "path": "/demos/municipal-website/de/demarches/dechets/",
+    "route": "page:dechets",
+    "title": "Déchets et propreté"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/",
+    "route": "page:vivre",
+    "title": "Vivre à Valmer"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/enfance/",
+    "route": "page:enfance",
+    "title": "Enfance et jeunesse"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/education/",
+    "route": "page:education",
+    "title": "Éducation et vie scolaire"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/solidarite/",
+    "route": "page:solidarite",
+    "title": "Solidarité et seniors"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/sante/",
+    "route": "page:sante",
+    "title": "Santé et prévention"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/sport/",
+    "route": "page:sport",
+    "title": "Sport et loisirs"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/culture/",
+    "route": "page:culture",
+    "title": "Culture et médiathèque"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/associations/",
+    "route": "page:associations",
+    "title": "La vie associative"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/commerces/",
+    "route": "page:commerces",
+    "title": "Commerces et marché"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/mobilite/",
+    "route": "page:mobilite",
+    "title": "Mobilité et stationnement"
+  },
+  {
+    "path": "/demos/municipal-website/de/vivre/environnement/",
+    "route": "page:environnement",
+    "title": "Nature et environnement"
+  },
+  {
+    "path": "/demos/municipal-website/de/decouvrir/",
+    "route": "page:decouvrir",
+    "title": "Découvrir Valmer"
+  },
+  {
+    "path": "/demos/municipal-website/de/decouvrir/patrimoine/",
+    "route": "page:patrimoine",
+    "title": "Un patrimoine vivant"
+  },
+  {
+    "path": "/demos/municipal-website/de/decouvrir/nature/",
+    "route": "page:nature",
+    "title": "Au fil du Lior"
+  },
+  {
+    "path": "/demos/municipal-website/de/decouvrir/histoire/",
+    "route": "page:histoire",
+    "title": "Une histoire de liens"
+  },
+  {
+    "path": "/demos/municipal-website/de/actualites/place-aux-rencontres/",
+    "route": "news:place-aux-rencontres",
+    "title": "Sur la place, l’hiver se prépare ensemble"
+  },
+  {
+    "path": "/demos/municipal-website/de/actualites/cours-plus-fraiches/",
+    "route": "news:cours-plus-fraiches",
+    "title": "Des cours d’école plus fraîches : la concertation commence"
+  },
+  {
+    "path": "/demos/municipal-website/de/actualites/berges-du-lior/",
+    "route": "news:berges-du-lior",
+    "title": "Les Rives : le chantier entre dans une nouvelle étape"
+  },
+  {
+    "path": "/demos/municipal-website/de/actualites/mediatheque-hiver/",
+    "route": "news:mediatheque-hiver",
+    "title": "À la médiathèque, des histoires à partager"
+  },
+  {
+    "path": "/demos/municipal-website/de/actualites/arbres-avenir/",
+    "route": "news:arbres-avenir",
+    "title": "Des arbres pour les étés de demain"
+  },
+  {
+    "path": "/demos/municipal-website/de/actualites/sports-ouverts/",
+    "route": "news:sports-ouverts",
+    "title": "Le sport se découvre aussi le dimanche"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/marche-hiver/",
+    "route": "event:marche-hiver",
+    "title": "Le marché d’hiver des Tilleuls"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/concert-pierres/",
+    "route": "event:concert-pierres",
+    "title": "Musiques entre les pierres"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/balade-avelines/",
+    "route": "event:balade-avelines",
+    "title": "La nature en hiver"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/atelier-numerique/",
+    "route": "event:atelier-numerique",
+    "title": "Premiers pas dans le numérique"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/atelier-ecoles/",
+    "route": "event:atelier-ecoles",
+    "title": "Imaginons les cours d’école"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/dimanche-sport/",
+    "route": "event:dimanche-sport",
+    "title": "Un dimanche aux Olivettes"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/cafe-lecture/",
+    "route": "event:cafe-lecture",
+    "title": "Le café des lecteurs"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/conseil-decembre/",
+    "route": "event:conseil-decembre",
+    "title": "Conseil municipal de décembre"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/hotel-ville/",
+    "route": "place:hotel-ville",
+    "title": "Hôtel de ville"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/service-urbanisme/",
+    "route": "place:service-urbanisme",
+    "title": "Service Urbanisme"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/mediatheque/",
+    "route": "place:mediatheque",
+    "title": "Médiathèque des Rives"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/ecole-bourg/",
+    "route": "place:ecole-bourg",
+    "title": "École du Bourg"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/parc-sportif/",
+    "route": "place:parc-sportif",
+    "title": "Parc sportif des Olivettes"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/jardin-avelines/",
+    "route": "place:jardin-avelines",
+    "title": "Jardin des Avelines"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/amis-lior/",
+    "route": "place:amis-lior",
+    "title": "Les Amis du Lior"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/atelier-partage/",
+    "route": "place:atelier-partage",
+    "title": "L’Atelier partagé"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/tennis-olivettes/",
+    "route": "place:tennis-olivettes",
+    "title": "Tennis des Olivettes"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/pain-rives/",
+    "route": "place:pain-rives",
+    "title": "Le Pain des Rives"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/epicerie-bourg/",
+    "route": "place:epicerie-bourg",
+    "title": "L’Épicerie du Bourg"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/tour-bourg/",
+    "route": "place:tour-bourg",
+    "title": "La tour du Bourg"
+  },
+  {
+    "path": "/demos/municipal-website/de/actualites/",
+    "route": "news",
+    "title": "Actualités"
+  },
+  {
+    "path": "/demos/municipal-website/de/actualites/article/",
+    "route": "article",
+    "title": "Une actualité de Valmer"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/",
+    "route": "agenda",
+    "title": "L’agenda"
+  },
+  {
+    "path": "/demos/municipal-website/de/agenda/evenement/",
+    "route": "event",
+    "title": "Un rendez-vous à Valmer"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/",
+    "route": "directory",
+    "title": "L’annuaire"
+  },
+  {
+    "path": "/demos/municipal-website/de/annuaire/fiche/",
+    "route": "directory-detail",
+    "title": "Un lieu de Valmer"
+  },
+  {
+    "path": "/demos/municipal-website/de/carte/",
+    "route": "map",
+    "title": "La carte du territoire"
+  },
+  {
+    "path": "/demos/municipal-website/de/demarches/salles/",
+    "route": "booking",
+    "title": "Réserver une salle"
+  },
+  {
+    "path": "/demos/municipal-website/de/demarches/rendez-vous/",
+    "route": "appointment",
+    "title": "Prendre rendez-vous"
+  },
+  {
+    "path": "/demos/municipal-website/de/demarches/signalement/",
+    "route": "signal",
+    "title": "Signaler un problème"
+  },
+  {
+    "path": "/demos/municipal-website/de/espace-citoyen/",
+    "route": "citizen",
+    "title": "Mon espace citoyen"
+  },
+  {
+    "path": "/demos/municipal-website/de/recherche/",
+    "route": "search",
+    "title": "Rechercher"
+  },
+  {
+    "path": "/demos/municipal-website/de/contact/",
+    "route": "contact",
+    "title": "Horaires et contact"
+  },
+  {
+    "path": "/demos/municipal-website/de/decouvrir/galerie/",
+    "route": "gallery",
+    "title": "Regards sur Valmer"
+  },
+  {
+    "path": "/demos/municipal-website/de/plan-du-site/",
+    "route": "sitemap",
+    "title": "Plan du site"
+  },
+  {
+    "path": "/demos/municipal-website/de/mentions-legales/",
+    "route": "mentions-legales",
+    "title": "Mentions légales"
+  },
+  {
+    "path": "/demos/municipal-website/de/confidentialite/",
+    "route": "confidentialite",
+    "title": "Confidentialité"
+  },
+  {
+    "path": "/demos/municipal-website/de/accessibilite/",
+    "route": "accessibilite",
+    "title": "Accessibilité"
+  },
+  {
+    "path": "/demos/municipal-website/de/page/",
+    "route": "custom-page",
+    "title": "Une page de Valmer"
+  },
+  {
+    "path": "/demos/municipal-website/de/administration/",
+    "route": "admin",
+    "title": "L’atelier municipal"
+  },
+  {
+    "path": "/demos/municipal-website/de/credits/",
+    "route": "credits",
+    "title": "Crédits photographiques"
+  }
+]
