@@ -1,0 +1,42 @@
+{
+  "source": "Public WordPress pages/posts API, root sitemap and navigation; checked 2026-11-28",
+  "pages": [
+    {
+      "id": 1186,
+      "url": "https://powerhousecasting.com/home/our-space/",
+      "title": "Our Space"
+    },
+    {
+      "id": 1093,
+      "url": "https://powerhousecasting.com/home/contact/",
+      "title": "Contact"
+    },
+    {
+      "id": 1087,
+      "url": "https://powerhousecasting.com/home/directors/",
+      "title": "Directors We Work With"
+    },
+    {
+      "id": 1075,
+      "url": "https://powerhousecasting.com/home/work/",
+      "title": "Reel"
+    },
+    {
+      "id": 1059,
+      "url": "https://powerhousecasting.com/home/about/",
+      "title": "About"
+    },
+    {
+      "id": 5,
+      "url": "https://powerhousecasting.com/home/",
+      "title": "Home"
+    },
+    {
+      "id": 5,
+      "url": "https://www.powerhousecasting.com/",
+      "title": "Home"
+    }
+  ],
+  "publishedPosts": 0,
+  "limits": "No analytics, access logs, GoDaddy admin or historical backlinks supplied. Exhaustive for currently published pages exposed by these sources, not a claim about every historical URL."
+}

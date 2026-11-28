@@ -1,0 +1,978 @@
+{
+  "films": [
+    {
+      "id": "wall-street-journal",
+      "client": "The Wall Street Journal",
+      "title": "A story worth seeing.",
+      "director": "Ellen Kuras",
+      "production": "The Corner Shop",
+      "vimeo": "255419863",
+      "category": "Commercial",
+      "duration": "01:00",
+      "image": "255419863-hd.webp",
+      "summary": "A film for The Wall Street Journal. Directed by Ellen Kuras, with casting by Powerhouse Casting.",
+      "directorSlug": "ellen-kuras"
+    },
+    {
+      "id": "far-cry-5",
+      "client": "Far Cry 5",
+      "title": "Into the unexpected.",
+      "director": "Martin De Thurah",
+      "production": "Epoch",
+      "vimeo": "262058360",
+      "category": "Commercial",
+      "duration": "02:18",
+      "image": "262058360-hd.webp",
+      "summary": "A live-action campaign for Far Cry 5, directed by Martin De Thurah. An archive selection from Powerhouse Casting.",
+      "directorSlug": "martin-de-thurah"
+    },
+    {
+      "id": "macys-santa-girl",
+      "client": "Macy’s",
+      "title": "Santa Girl",
+      "director": "Garth Davis",
+      "production": "Circle Films",
+      "vimeo": "373184444",
+      "category": "Commercial",
+      "duration": "02:00",
+      "image": "373184444-hd.webp",
+      "summary": "Santa Girl, directed by Garth Davis for Macy’s. Casting credited to Powerhouse Casting in its public film archive.",
+      "directorSlug": "garth-davis"
+    },
+    {
+      "id": "we-the-north",
+      "client": "Toronto Raptors",
+      "title": "We The North",
+      "director": "Stuart McIntyre",
+      "production": "Steam Films",
+      "vimeo": "94417876",
+      "category": "Sport",
+      "duration": "01:02",
+      "image": "94417876-hd.webp",
+      "summary": "We The North. A Toronto Raptors film directed by Stuart McIntyre, from the Powerhouse Casting archive.",
+      "directorSlug": "stuart-mcintyre"
+    },
+    {
+      "id": "tim-hortons-crosby",
+      "client": "Tim Hortons",
+      "title": "Crosby",
+      "director": "Mark Zibert",
+      "production": "Skin & Bones",
+      "vimeo": "88386823",
+      "category": "Sport",
+      "duration": "01:01",
+      "image": "88386823-hd.webp",
+      "summary": "Crosby, directed by Mark Zibert for Tim Hortons. A film selected from Powerhouse Casting’s public archive.",
+      "directorSlug": "mark-zibert"
+    },
+    {
+      "id": "star-wars-xbox",
+      "client": "Star Wars Xbox",
+      "title": "A different kind of play.",
+      "director": "Garth Davis",
+      "production": "Academy Films",
+      "vimeo": "392559685",
+      "category": "Commercial",
+      "duration": "01:40",
+      "image": "392559685-hd.webp",
+      "summary": "A Star Wars Xbox film directed by Garth Davis, with production by Academy Films. Listed in the Powerhouse Casting archive.",
+      "directorSlug": "garth-davis"
+    }
+  ],
+  "directors": [
+    {
+      "name": "Aaron Stoller",
+      "slug": "aaron-stoller",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Adam Berg",
+      "slug": "adam-berg",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "AirCastle",
+      "slug": "aircastle",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Alex Ogus",
+      "slug": "alex-ogus",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Andrew Becker",
+      "slug": "andrew-becker",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Andrew De Zen",
+      "slug": "andrew-de-zen",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Benji Weinstein",
+      "slug": "benji-weinstein",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Brett Harris",
+      "slug": "brett-harris",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Brian Aldrich",
+      "slug": "brian-aldrich",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Brian Beletic",
+      "slug": "brian-beletic",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Bryan Buckley",
+      "slug": "bryan-buckley",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Casey Storm",
+      "slug": "casey-storm",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Chris Sargent",
+      "slug": "chris-sargent",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Christian Loubek",
+      "slug": "christian-loubek",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Clay Weiner",
+      "slug": "clay-weiner",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Craig Gillespie",
+      "slug": "craig-gillespie",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Dante Ariola",
+      "slug": "dante-ariola",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "David Frankham",
+      "slug": "david-frankham",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "David Kellogg",
+      "slug": "david-kellogg",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "David McNally",
+      "slug": "david-mcnally",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "David Shane",
+      "slug": "david-shane",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Ellen Kuras",
+      "slug": "ellen-kuras",
+      "films": [
+        "wall-street-journal"
+      ],
+      "bio": "Ellen Kuras is a director and cinematographer whose work spans narrative films, documentaries, music films and commercials. Her cinematography includes Eternal Sunshine of the Spotless Mind; she directed the documentary The Betrayal / Nerakhoon.",
+      "source": "https://collab.sundance.org/people/Ellen-Kuras-1615404639",
+      "portrait": ""
+    },
+    {
+      "name": "Fantavious Fritz",
+      "slug": "fantavious-fritz",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Filip Nilsson",
+      "slug": "filip-nilsson",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Frank Todaro",
+      "slug": "frank-todaro",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Frederic Plachon",
+      "slug": "frederic-plachon",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Garth Davis",
+      "slug": "garth-davis",
+      "films": [
+        "macys-santa-girl",
+        "star-wars-xbox"
+      ],
+      "bio": "Garth Davis works across commercials, television and feature films. His feature debut was Lion, and he co-directed the television series Top of the Lake with Jane Campion. His commercial work includes films for Xbox and Coca-Cola.",
+      "source": "https://exitfilms.com/directors/garth-davis",
+      "portrait": ""
+    },
+    {
+      "name": "Guy Shelmerdine",
+      "slug": "guy-shelmerdine",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Henry Alex Ruben",
+      "slug": "henry-alex-ruben",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Henry Lu",
+      "slug": "henry-lu",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Hoffman / Metoyer",
+      "slug": "hoffman-metoyer",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Irv Blitz",
+      "slug": "irv-blitz",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Jamie Rafn",
+      "slug": "jamie-rafn",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Jeff Darling",
+      "slug": "jeff-darling",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Jeff Fleisig",
+      "slug": "jeff-fleisig",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Jeff Low",
+      "slug": "jeff-low",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Jim Jenkins",
+      "slug": "jim-jenkins",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "JJ Adler",
+      "slug": "jj-adler",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Joachim Back",
+      "slug": "joachim-back",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Joe Pubic",
+      "slug": "joe-pubic",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Joe Pytka",
+      "slug": "joe-pytka",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "John Mastromonaco",
+      "slug": "john-mastromonaco",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Johnny Green",
+      "slug": "johnny-green",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Jon + Torey",
+      "slug": "jon-torey",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Jono Holmes",
+      "slug": "jono-holmes",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Karim Huu Do",
+      "slug": "karim-huu-do",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Lance Accord",
+      "slug": "lance-accord",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Mark Gilbert",
+      "slug": "mark-gilbert",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Mark Zibert",
+      "slug": "mark-zibert",
+      "films": [
+        "tim-hortons-crosby"
+      ],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Martin De Thurah",
+      "slug": "martin-de-thurah",
+      "films": [
+        "far-cry-5"
+      ],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Martin Granger",
+      "slug": "martin-granger",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Martin Werner",
+      "slug": "martin-werner",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Matt Atkinson",
+      "slug": "matt-atkinson",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Mat Asleton",
+      "slug": "mat-asleton",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Matt Smuckler",
+      "slug": "matt-smuckler",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Matthew Swanson",
+      "slug": "matthew-swanson",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Matthijs Van Heijningen",
+      "slug": "matthijs-van-heijningen",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Michael Clowater",
+      "slug": "michael-clowater",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Neil Harris",
+      "slug": "neil-harris",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Neil Tardio Jr.",
+      "slug": "neil-tardio-jr",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Nick Ball",
+      "slug": "nick-ball",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Noam Murro",
+      "slug": "noam-murro",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Patrick Daughters",
+      "slug": "patrick-daughters",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Pete Riski",
+      "slug": "pete-riski",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Peter Darley Miller",
+      "slug": "peter-darley-miller",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Phil Morrison",
+      "slug": "phil-morrison",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Randy Krallman",
+      "slug": "randy-krallman",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Rocky Morton",
+      "slug": "rocky-morton",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Speck / Gordon",
+      "slug": "speck-gordon",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Steve Ayson",
+      "slug": "steve-ayson",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Steve Chase",
+      "slug": "steve-chase",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Steve Miller",
+      "slug": "steve-miller",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Steve Rogers",
+      "slug": "steve-rogers",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Stuart McIntyre",
+      "slug": "stuart-mcintyre",
+      "films": [
+        "we-the-north"
+      ],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Ted Pauly",
+      "slug": "ted-pauly",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "The Malloys",
+      "slug": "the-malloys",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "The Perlorian Brothers",
+      "slug": "the-perlorian-brothers",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Tim Godsall",
+      "slug": "tim-godsall",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Todd Field",
+      "slug": "todd-field",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Tom Kuntz",
+      "slug": "tom-kuntz",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Tomas Jonsgarden",
+      "slug": "tomas-jonsgarden",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Twin",
+      "slug": "twin",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Yael Staav",
+      "slug": "yael-staav",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    },
+    {
+      "name": "Zach Math",
+      "slug": "zach-math",
+      "films": [],
+      "bio": "",
+      "source": "https://powerhousecasting.com/home/directors/",
+      "portrait": ""
+    }
+  ],
+  "notes": [
+    {
+      "id": "real-people",
+      "title": "Real people. Real presence.",
+      "tag": "Casting approach",
+      "image": "255419863-hd.webp",
+      "body": "Powerhouse’s public profile describes an extensive practice in real-people casting, from specialist performers and athletes to people with specific lived experiences. The search starts with what the story needs.",
+      "source": "https://powerhousecasting.com/home/about/",
+      "status": "published",
+      "date": "",
+      "disclaimer": "Editorial note for this independent proposal."
+    },
+    {
+      "id": "the-space",
+      "title": "Room for the right moment.",
+      "tag": "Inside the studio",
+      "image": "z2-2.webp",
+      "body": "A look inside Powerhouse’s Toronto space, using the studio photographs published on its current website. For availability, access details and technical requirements, speak with the team.",
+      "source": "https://powerhousecasting.com/home/our-space/",
+      "status": "published",
+      "date": "",
+      "disclaimer": "Editorial note for this independent proposal."
+    },
+    {
+      "id": "the-archive",
+      "title": "Faces from the archive.",
+      "tag": "Archive selection",
+      "image": "373184444-hd.webp",
+      "body": "This selection brings together films already listed in Powerhouse’s public archive. Original film titles, director credits and production companies come from the studio’s Vimeo listings. These are archive selections, not newly announced campaigns.",
+      "source": "https://powerhousecasting.com/home/work/",
+      "status": "published",
+      "date": "",
+      "disclaimer": "Editorial note for this independent proposal."
+    }
+  ],
+  "schemaVersion": 2,
+  "showreel": {
+    "url": "https://vimeo.com/255419863",
+    "poster": "assets/255419863-hd.webp",
+    "label": "The Wall Street Journal / Ellen Kuras",
+    "archive": true,
+    "desktopPosition": 50,
+    "mobilePosition": 62
+  },
+  "sections": {
+    "index": [
+      {
+        "id": "index-0",
+        "templateId": "index-0",
+        "visible": true
+      },
+      {
+        "id": "index-1",
+        "templateId": "index-1",
+        "visible": true
+      },
+      {
+        "id": "index-2",
+        "templateId": "index-2",
+        "visible": true
+      },
+      {
+        "id": "index-3",
+        "templateId": "index-3",
+        "visible": true
+      },
+      {
+        "id": "index-4",
+        "templateId": "index-4",
+        "visible": true
+      },
+      {
+        "id": "index-5",
+        "templateId": "index-5",
+        "visible": true
+      },
+      {
+        "id": "index-6",
+        "templateId": "index-6",
+        "visible": true
+      }
+    ],
+    "work": [
+      {
+        "id": "work-0",
+        "templateId": "work-0",
+        "visible": true
+      },
+      {
+        "id": "work-1",
+        "templateId": "work-1",
+        "visible": true
+      }
+    ],
+    "about": [
+      {
+        "id": "about-0",
+        "templateId": "about-0",
+        "visible": true
+      },
+      {
+        "id": "about-1",
+        "templateId": "about-1",
+        "visible": true
+      },
+      {
+        "id": "about-2",
+        "templateId": "about-2",
+        "visible": true
+      },
+      {
+        "id": "about-3",
+        "templateId": "about-3",
+        "visible": true
+      },
+      {
+        "id": "about-4",
+        "templateId": "about-4",
+        "visible": true
+      }
+    ],
+    "directors": [
+      {
+        "id": "directors-0",
+        "templateId": "directors-0",
+        "visible": true
+      },
+      {
+        "id": "directors-1",
+        "templateId": "directors-1",
+        "visible": true
+      }
+    ],
+    "space": [
+      {
+        "id": "space-0",
+        "templateId": "space-0",
+        "visible": true
+      },
+      {
+        "id": "space-1",
+        "templateId": "space-1",
+        "visible": true
+      },
+      {
+        "id": "space-2",
+        "templateId": "space-2",
+        "visible": true
+      },
+      {
+        "id": "space-3",
+        "templateId": "space-3",
+        "visible": true
+      }
+    ],
+    "contact": [
+      {
+        "id": "contact-0",
+        "templateId": "contact-0",
+        "visible": true
+      },
+      {
+        "id": "contact-1",
+        "templateId": "contact-1",
+        "visible": true
+      }
+    ]
+  },
+  "overrides": {},
+  "media": [
+    {
+      "path": "assets/255419863-hd.webp",
+      "label": "The Wall Street Journal — archive still"
+    },
+    {
+      "path": "assets/262058360-hd.webp",
+      "label": "Far Cry 5 — archive still"
+    },
+    {
+      "path": "assets/373184444-hd.webp",
+      "label": "Macy’s — archive still"
+    },
+    {
+      "path": "assets/94417876-hd.webp",
+      "label": "Toronto Raptors — archive still"
+    },
+    {
+      "path": "assets/88386823-hd.webp",
+      "label": "Tim Hortons — archive still"
+    },
+    {
+      "path": "assets/392559685-hd.webp",
+      "label": "Star Wars Xbox — archive still"
+    },
+    {
+      "path": "assets/z1-2.webp",
+      "label": "Studio photograph 1"
+    },
+    {
+      "path": "assets/z2-2.webp",
+      "label": "Studio photograph 2"
+    },
+    {
+      "path": "assets/z3-2.webp",
+      "label": "Studio photograph 3"
+    },
+    {
+      "path": "assets/z4-2.webp",
+      "label": "Studio photograph 4"
+    }
+  ]
+}

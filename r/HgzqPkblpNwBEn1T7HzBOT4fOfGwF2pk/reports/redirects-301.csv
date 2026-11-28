@@ -1,0 +1,108 @@
+﻿Old URL,Proposed final URL,HTTP status,Reason,Deployment state
+http://powerhousecasting.com/home/our-space/,https://www.powerhousecasting.com/space/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://powerhousecasting.com/home/our-space,https://www.powerhousecasting.com/space/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://powerhousecasting.com/home/?page_id=1186,https://www.powerhousecasting.com/space/,301,WordPress ID route for published page 1186,Planned — not deployed
+http://powerhousecasting.com/home/?p=1186,https://www.powerhousecasting.com/space/,301,WordPress shortlink for published page 1186,Planned — not deployed
+http://www.powerhousecasting.com/home/our-space/,https://www.powerhousecasting.com/space/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://www.powerhousecasting.com/home/our-space,https://www.powerhousecasting.com/space/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://www.powerhousecasting.com/home/?page_id=1186,https://www.powerhousecasting.com/space/,301,WordPress ID route for published page 1186,Planned — not deployed
+http://www.powerhousecasting.com/home/?p=1186,https://www.powerhousecasting.com/space/,301,WordPress shortlink for published page 1186,Planned — not deployed
+https://powerhousecasting.com/home/our-space/,https://www.powerhousecasting.com/space/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://powerhousecasting.com/home/our-space,https://www.powerhousecasting.com/space/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://powerhousecasting.com/home/?page_id=1186,https://www.powerhousecasting.com/space/,301,WordPress ID route for published page 1186,Planned — not deployed
+https://powerhousecasting.com/home/?p=1186,https://www.powerhousecasting.com/space/,301,WordPress shortlink for published page 1186,Planned — not deployed
+https://www.powerhousecasting.com/home/our-space/,https://www.powerhousecasting.com/space/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://www.powerhousecasting.com/home/our-space,https://www.powerhousecasting.com/space/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://www.powerhousecasting.com/home/?page_id=1186,https://www.powerhousecasting.com/space/,301,WordPress ID route for published page 1186,Planned — not deployed
+https://www.powerhousecasting.com/home/?p=1186,https://www.powerhousecasting.com/space/,301,WordPress shortlink for published page 1186,Planned — not deployed
+http://powerhousecasting.com/home/contact/,https://www.powerhousecasting.com/contact/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://powerhousecasting.com/home/contact,https://www.powerhousecasting.com/contact/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://powerhousecasting.com/home/?page_id=1093,https://www.powerhousecasting.com/contact/,301,WordPress ID route for published page 1093,Planned — not deployed
+http://powerhousecasting.com/home/?p=1093,https://www.powerhousecasting.com/contact/,301,WordPress shortlink for published page 1093,Planned — not deployed
+http://www.powerhousecasting.com/home/contact/,https://www.powerhousecasting.com/contact/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://www.powerhousecasting.com/home/contact,https://www.powerhousecasting.com/contact/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://www.powerhousecasting.com/home/?page_id=1093,https://www.powerhousecasting.com/contact/,301,WordPress ID route for published page 1093,Planned — not deployed
+http://www.powerhousecasting.com/home/?p=1093,https://www.powerhousecasting.com/contact/,301,WordPress shortlink for published page 1093,Planned — not deployed
+https://powerhousecasting.com/home/contact/,https://www.powerhousecasting.com/contact/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://powerhousecasting.com/home/contact,https://www.powerhousecasting.com/contact/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://powerhousecasting.com/home/?page_id=1093,https://www.powerhousecasting.com/contact/,301,WordPress ID route for published page 1093,Planned — not deployed
+https://powerhousecasting.com/home/?p=1093,https://www.powerhousecasting.com/contact/,301,WordPress shortlink for published page 1093,Planned — not deployed
+https://www.powerhousecasting.com/home/contact/,https://www.powerhousecasting.com/contact/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://www.powerhousecasting.com/home/contact,https://www.powerhousecasting.com/contact/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://www.powerhousecasting.com/home/?page_id=1093,https://www.powerhousecasting.com/contact/,301,WordPress ID route for published page 1093,Planned — not deployed
+https://www.powerhousecasting.com/home/?p=1093,https://www.powerhousecasting.com/contact/,301,WordPress shortlink for published page 1093,Planned — not deployed
+http://powerhousecasting.com/home/directors/,https://www.powerhousecasting.com/directors/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://powerhousecasting.com/home/directors,https://www.powerhousecasting.com/directors/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://powerhousecasting.com/home/?page_id=1087,https://www.powerhousecasting.com/directors/,301,WordPress ID route for published page 1087,Planned — not deployed
+http://powerhousecasting.com/home/?p=1087,https://www.powerhousecasting.com/directors/,301,WordPress shortlink for published page 1087,Planned — not deployed
+http://www.powerhousecasting.com/home/directors/,https://www.powerhousecasting.com/directors/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://www.powerhousecasting.com/home/directors,https://www.powerhousecasting.com/directors/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://www.powerhousecasting.com/home/?page_id=1087,https://www.powerhousecasting.com/directors/,301,WordPress ID route for published page 1087,Planned — not deployed
+http://www.powerhousecasting.com/home/?p=1087,https://www.powerhousecasting.com/directors/,301,WordPress shortlink for published page 1087,Planned — not deployed
+https://powerhousecasting.com/home/directors/,https://www.powerhousecasting.com/directors/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://powerhousecasting.com/home/directors,https://www.powerhousecasting.com/directors/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://powerhousecasting.com/home/?page_id=1087,https://www.powerhousecasting.com/directors/,301,WordPress ID route for published page 1087,Planned — not deployed
+https://powerhousecasting.com/home/?p=1087,https://www.powerhousecasting.com/directors/,301,WordPress shortlink for published page 1087,Planned — not deployed
+https://www.powerhousecasting.com/home/directors/,https://www.powerhousecasting.com/directors/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://www.powerhousecasting.com/home/directors,https://www.powerhousecasting.com/directors/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://www.powerhousecasting.com/home/?page_id=1087,https://www.powerhousecasting.com/directors/,301,WordPress ID route for published page 1087,Planned — not deployed
+https://www.powerhousecasting.com/home/?p=1087,https://www.powerhousecasting.com/directors/,301,WordPress shortlink for published page 1087,Planned — not deployed
+http://powerhousecasting.com/home/work/,https://www.powerhousecasting.com/work/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://powerhousecasting.com/home/work,https://www.powerhousecasting.com/work/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://powerhousecasting.com/home/?page_id=1075,https://www.powerhousecasting.com/work/,301,WordPress ID route for published page 1075,Planned — not deployed
+http://powerhousecasting.com/home/?p=1075,https://www.powerhousecasting.com/work/,301,WordPress shortlink for published page 1075,Planned — not deployed
+http://www.powerhousecasting.com/home/work/,https://www.powerhousecasting.com/work/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://www.powerhousecasting.com/home/work,https://www.powerhousecasting.com/work/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://www.powerhousecasting.com/home/?page_id=1075,https://www.powerhousecasting.com/work/,301,WordPress ID route for published page 1075,Planned — not deployed
+http://www.powerhousecasting.com/home/?p=1075,https://www.powerhousecasting.com/work/,301,WordPress shortlink for published page 1075,Planned — not deployed
+https://powerhousecasting.com/home/work/,https://www.powerhousecasting.com/work/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://powerhousecasting.com/home/work,https://www.powerhousecasting.com/work/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://powerhousecasting.com/home/?page_id=1075,https://www.powerhousecasting.com/work/,301,WordPress ID route for published page 1075,Planned — not deployed
+https://powerhousecasting.com/home/?p=1075,https://www.powerhousecasting.com/work/,301,WordPress shortlink for published page 1075,Planned — not deployed
+https://www.powerhousecasting.com/home/work/,https://www.powerhousecasting.com/work/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://www.powerhousecasting.com/home/work,https://www.powerhousecasting.com/work/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://www.powerhousecasting.com/home/?page_id=1075,https://www.powerhousecasting.com/work/,301,WordPress ID route for published page 1075,Planned — not deployed
+https://www.powerhousecasting.com/home/?p=1075,https://www.powerhousecasting.com/work/,301,WordPress shortlink for published page 1075,Planned — not deployed
+http://powerhousecasting.com/home/about/,https://www.powerhousecasting.com/about/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://powerhousecasting.com/home/about,https://www.powerhousecasting.com/about/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://powerhousecasting.com/home/?page_id=1059,https://www.powerhousecasting.com/about/,301,WordPress ID route for published page 1059,Planned — not deployed
+http://powerhousecasting.com/home/?p=1059,https://www.powerhousecasting.com/about/,301,WordPress shortlink for published page 1059,Planned — not deployed
+http://www.powerhousecasting.com/home/about/,https://www.powerhousecasting.com/about/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://www.powerhousecasting.com/home/about,https://www.powerhousecasting.com/about/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://www.powerhousecasting.com/home/?page_id=1059,https://www.powerhousecasting.com/about/,301,WordPress ID route for published page 1059,Planned — not deployed
+http://www.powerhousecasting.com/home/?p=1059,https://www.powerhousecasting.com/about/,301,WordPress shortlink for published page 1059,Planned — not deployed
+https://powerhousecasting.com/home/about/,https://www.powerhousecasting.com/about/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://powerhousecasting.com/home/about,https://www.powerhousecasting.com/about/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://powerhousecasting.com/home/?page_id=1059,https://www.powerhousecasting.com/about/,301,WordPress ID route for published page 1059,Planned — not deployed
+https://powerhousecasting.com/home/?p=1059,https://www.powerhousecasting.com/about/,301,WordPress shortlink for published page 1059,Planned — not deployed
+https://www.powerhousecasting.com/home/about/,https://www.powerhousecasting.com/about/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://www.powerhousecasting.com/home/about,https://www.powerhousecasting.com/about/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://www.powerhousecasting.com/home/?page_id=1059,https://www.powerhousecasting.com/about/,301,WordPress ID route for published page 1059,Planned — not deployed
+https://www.powerhousecasting.com/home/?p=1059,https://www.powerhousecasting.com/about/,301,WordPress shortlink for published page 1059,Planned — not deployed
+http://powerhousecasting.com/home/,https://www.powerhousecasting.com/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://powerhousecasting.com/home,https://www.powerhousecasting.com/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://powerhousecasting.com/home/?page_id=5,https://www.powerhousecasting.com/,301,WordPress ID route for published page 5,Planned — not deployed
+http://powerhousecasting.com/home/?p=5,https://www.powerhousecasting.com/,301,WordPress shortlink for published page 5,Planned — not deployed
+http://www.powerhousecasting.com/home/,https://www.powerhousecasting.com/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://www.powerhousecasting.com/home,https://www.powerhousecasting.com/,301,Trailing-slash alias of a published page,Planned — not deployed
+http://www.powerhousecasting.com/home/?page_id=5,https://www.powerhousecasting.com/,301,WordPress ID route for published page 5,Planned — not deployed
+http://www.powerhousecasting.com/home/?p=5,https://www.powerhousecasting.com/,301,WordPress shortlink for published page 5,Planned — not deployed
+https://powerhousecasting.com/home/,https://www.powerhousecasting.com/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://powerhousecasting.com/home,https://www.powerhousecasting.com/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://powerhousecasting.com/home/?page_id=5,https://www.powerhousecasting.com/,301,WordPress ID route for published page 5,Planned — not deployed
+https://powerhousecasting.com/home/?p=5,https://www.powerhousecasting.com/,301,WordPress shortlink for published page 5,Planned — not deployed
+https://www.powerhousecasting.com/home/,https://www.powerhousecasting.com/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://www.powerhousecasting.com/home,https://www.powerhousecasting.com/,301,Trailing-slash alias of a published page,Planned — not deployed
+https://www.powerhousecasting.com/home/?page_id=5,https://www.powerhousecasting.com/,301,WordPress ID route for published page 5,Planned — not deployed
+https://www.powerhousecasting.com/home/?p=5,https://www.powerhousecasting.com/,301,WordPress shortlink for published page 5,Planned — not deployed
+http://powerhousecasting.com/,https://www.powerhousecasting.com/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://powerhousecasting.com/?page_id=5,https://www.powerhousecasting.com/,301,WordPress ID route for published page 5,Planned — not deployed
+http://powerhousecasting.com/?p=5,https://www.powerhousecasting.com/,301,WordPress shortlink for published page 5,Planned — not deployed
+http://www.powerhousecasting.com/,https://www.powerhousecasting.com/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+http://www.powerhousecasting.com/?page_id=5,https://www.powerhousecasting.com/,301,WordPress ID route for published page 5,Planned — not deployed
+http://www.powerhousecasting.com/?p=5,https://www.powerhousecasting.com/,301,WordPress shortlink for published page 5,Planned — not deployed
+https://powerhousecasting.com/,https://www.powerhousecasting.com/,301,Published page / canonical host and HTTPS normalisation,Planned — not deployed
+https://powerhousecasting.com/?page_id=5,https://www.powerhousecasting.com/,301,WordPress ID route for published page 5,Planned — not deployed
+https://powerhousecasting.com/?p=5,https://www.powerhousecasting.com/,301,WordPress shortlink for published page 5,Planned — not deployed
+https://www.powerhousecasting.com/?page_id=5,https://www.powerhousecasting.com/,301,WordPress ID route for published page 5,Planned — not deployed
+https://www.powerhousecasting.com/?p=5,https://www.powerhousecasting.com/,301,WordPress shortlink for published page 5,Planned — not deployed
